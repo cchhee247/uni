@@ -3,6 +3,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
+<local_realty_id>1</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Ділянка під житлову забудову</realty_type>
 <photos_urls><loc>https://i.postimg.cc/jdKBPkX3/6409.jpg</loc> <loc>https://i.postimg.cc/TYGBgH9V/6409-(2.jpg</loc> <loc>https://i.postimg.cc/VsX3ScjG/6409-(3.jpg</loc> <loc>https://i.postimg.cc/bY1KGjQV/6409-(4.jpg</loc> <loc>https://i.postimg.cc/VL12nHR9/6409-(5.jpg</loc></photos_urls>
@@ -25,6 +26,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
+<local_realty_id>2</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Земля сільськогосподарського призначення</realty_type>
 <photos_urls><loc>https://i.postimg.cc/CLY9k67g/12707.jpg</loc> <loc>https://i.postimg.cc/qM0WyZwV/12707-(2.jpg</loc></photos_urls>
@@ -47,6 +49,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
+<local_realty_id>3</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Земля сільськогосподарського призначення</realty_type>
 <photos_urls><loc>https://i.postimg.cc/kXczcF1k/16756.jpg</loc> <loc>https://i.postimg.cc/kX9LKhs7/16756-(2.jpg</loc> <loc>https://i.postimg.cc/28mghXGm/16756-(3.jpg</loc> <loc>https://i.postimg.cc/qM0WyZwk/16756-(4.jpg</loc></photos_urls>
@@ -69,6 +72,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
+<local_realty_id>4</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Земля сільськогосподарського призначення</realty_type>
 <photos_urls><loc>https://i.postimg.cc/650g0Lbs/17651.jpg</loc> <loc>https://i.postimg.cc/WbnCn6Yc/17651-(1.jpg</loc></photos_urls>
@@ -90,6 +94,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
+<local_realty_id>6</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Земля сільськогосподарського призначення</realty_type>
 <photos_urls><loc>https://i.postimg.cc/Bn7yWZGm/31410.jpg</loc> <loc>https://i.postimg.cc/8zz3nJxq/31410-(2.jpg</loc> <loc>https://i.postimg.cc/XYYhDGtz/31410-(3.jpg</loc></photos_urls>
@@ -112,6 +117,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
+<local_realty_id>7</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Земля сільськогосподарського призначення</realty_type>
 <photos_urls><loc>https://i.postimg.cc/FHCqtF4H/35684.jpg</loc> <loc>https://i.postimg.cc/pLc7NVtw/35684-(2.jpg</loc> <loc>https://i.postimg.cc/RZp8rCB5/35684-(3.jpg</loc> <loc>https://i.postimg.cc/FHCqtF4t/35684-(4.jpg</loc> <loc>https://i.postimg.cc/mgpqxZs4/35684-(5.jpg</loc></photos_urls>
@@ -129,10 +135,11 @@
 <price>1000</price>
 <currency>грн</currency>
 <offer_type>від власника</offer_type>
-<without_commission>Так</without_commission> </realty>
+<without_commission>Так</without_commission> </inspections> </realty>
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
+<local_realty_id>8</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Земля сільськогосподарського призначення</realty_type>
 <photos_urls><loc>https://i.postimg.cc/MGhFTsH9/42118.jpg</loc></photos_urls>
@@ -155,6 +162,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
+<local_realty_id>9</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Ділянка під житлову забудову</realty_type>
 <photos_urls><loc>https://i.postimg.cc/YSJs9X0y/42174.jpg</loc></photos_urls>
@@ -177,6 +185,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
+<local_realty_id>10</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Земля сільськогосподарського призначення</realty_type>
 <photos_urls><loc>https://i.postimg.cc/ZRpDyrvQ/46437.jpg</loc> <loc>https://i.postimg.cc/tgLMTrJL/46437-(1.jpg</loc> <loc>https://i.postimg.cc/zf9cBd3Z/46437-(2.jpg</loc> <loc>https://i.postimg.cc/9fvnMxzH/46437-(3.jpg</loc> <loc>https://i.postimg.cc/nL6PzdMJ/46437-(4.jpg</loc></photos_urls>
@@ -199,6 +208,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
+<local_realty_id>11</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Земля сільськогосподарського призначення</realty_type>
 <photos_urls><loc>https://i.postimg.cc/PJHVbPmX/94264.jpg</loc> <loc>https://i.postimg.cc/9MZNqGqh/94264-(1.jpg</loc> <loc>https://i.postimg.cc/rmxYtStD/94264-(10.jpg</loc> <loc>https://i.postimg.cc/50LkFwFY/94264-(11.jpg</loc> <loc>https://i.postimg.cc/wvLbshsd/94264-(2.jpg</loc></photos_urls>
@@ -221,6 +231,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
+<local_realty_id>12</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Ділянка під житлову забудову</realty_type>
 <photos_urls><loc>https://i.postimg.cc/LsrbXy5Q/42169.jpg</loc></photos_urls>
@@ -243,6 +254,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
+<local_realty_id>13</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Земля сільськогосподарського призначення</realty_type>
 <photos_urls><loc>https://i.postimg.cc/Pr494zVJ/20009.jpg</loc> <loc>https://i.postimg.cc/RVRyRQpS/20009-(2.jpg</loc> <loc>https://i.postimg.cc/RVRyRQpV/20009-(3.jpg</loc> <loc>https://i.postimg.cc/VLRpRBZN/20009-(4.jpg</loc></photos_urls>
@@ -265,6 +277,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
+<local_realty_id>14</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Ділянка під житлову забудову</realty_type>
 <photos_urls><loc>https://i.postimg.cc/15H2Hc74/20357.jpg</loc></photos_urls>
@@ -287,6 +300,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
+<local_realty_id>15</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Ділянка під житлову забудову</realty_type>
 <photos_urls><loc>https://i.postimg.cc/t4vf0RjJ/38844.jpg</loc> <loc>https://i.postimg.cc/7ZtcvPkb/38844-(2.jpg</loc></photos_urls>
@@ -309,6 +323,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
+<local_realty_id>16</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Ділянка під житлову забудову</realty_type>
 <photos_urls><loc>https://i.postimg.cc/T3NS82XQ/32882.jpg</loc></photos_urls>
@@ -331,6 +346,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
+<local_realty_id>17</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Земля сільськогосподарського призначення</realty_type>
 <photos_urls><loc>https://i.postimg.cc/dtBpBmNy/20873.jpg</loc> <loc>https://i.postimg.cc/8PH9HBXr/20873-(2.jpg</loc> <loc>https://i.postimg.cc/ZKc2cFs3/20873-(3.jpg</loc></photos_urls>
@@ -353,6 +369,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
+<local_realty_id>18</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Ділянка під житлову забудову</realty_type>
 <photos_urls><loc>https://i.postimg.cc/GpZ52Mtk/40822.jpg</loc></photos_urls>
@@ -375,6 +392,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
+<local_realty_id>19</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Земля сільськогосподарського призначення</realty_type>
 <photos_urls><loc>https://i.postimg.cc/QCDYgHpH/137229.jpg</loc></photos_urls>
@@ -397,6 +415,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
+<local_realty_id>20</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Ділянка під житлову забудову</realty_type>
 <photos_urls><loc>https://i.postimg.cc/R0jDFPhf/39981.jpg</loc></photos_urls>
@@ -419,6 +438,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
+<local_realty_id>21</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Земля сільськогосподарського призначення</realty_type>
 <photos_urls><loc>https://i.postimg.cc/9fvnMx06/42528.jpg</loc> <loc>https://i.postimg.cc/MGhFTsHF/42528-(2.jpg</loc></photos_urls>
@@ -441,6 +461,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
+<local_realty_id>22</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Земля сільськогосподарського призначення</realty_type>
 <photos_urls><loc>https://i.postimg.cc/Bv8zJWSn/38961-1.jpg</loc> <loc>https://i.postimg.cc/mrcnTxLr/38961-2.jpg</loc> <loc>https://i.postimg.cc/Bv8zJWSt/38961-3.jpg</loc> <loc>https://i.postimg.cc/cJKzdqxr/38961-4.jpg</loc> <loc>https://i.postimg.cc/8CFYT8pB/38961-5.jpg</loc></photos_urls>
@@ -463,6 +484,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
+<local_realty_id>23</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Земля сільськогосподарського призначення</realty_type>
 <photos_urls><loc>https://i.postimg.cc/3wPcRLNj/41703.jpg</loc></photos_urls>
@@ -485,6 +507,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
+<local_realty_id>24</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Ділянка під житлову забудову</realty_type>
 <photos_urls><loc>https://i.postimg.cc/yxKphkFR/144175.jpg</loc></photos_urls>
@@ -507,6 +530,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
+<local_realty_id>25</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Ділянка під житлову забудову</realty_type>
 <photos_urls><loc>https://i.postimg.cc/B6Hw1xPd/90754.jpg</loc></photos_urls>
@@ -529,6 +553,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
+<local_realty_id>26</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Земля сільськогосподарського призначення</realty_type>
 <photos_urls><loc>https://i.postimg.cc/L5SQknzZ/140828.jpg</loc> <loc>https://i.postimg.cc/ZnmsPCrv/140828-(2.jpg</loc></photos_urls>
@@ -551,6 +576,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
+<local_realty_id>27</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Ділянка під житлову забудову</realty_type>
 <photos_urls><loc>https://i.postimg.cc/MHw30vy1/151235.jpg</loc> <loc>https://i.postimg.cc/Hnmv0VQ5/151235-(1.jpg</loc> <loc>https://i.postimg.cc/kGCYNBxK/151235-(2.jpg</loc></photos_urls>
@@ -573,6 +599,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
+<local_realty_id>28</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Ділянка під житлову забудову</realty_type>
 <photos_urls><loc>https://i.postimg.cc/cLkjq1Nj/34830.jpg</loc> <loc>https://i.postimg.cc/htZwF4qp/34830-(2.jpg</loc></photos_urls>
@@ -595,6 +622,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
+<local_realty_id>29</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Ділянка під житлову забудову</realty_type>
 <photos_urls><loc>https://i.postimg.cc/902gPrG0/131852.jpg</loc> <loc>https://i.postimg.cc/J08Y3Gbn/131852-(2.jpg</loc></photos_urls>
@@ -617,6 +645,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
+<local_realty_id>30</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Ділянка під житлову забудову</realty_type>
 <photos_urls><loc>https://i.postimg.cc/VvwZ9djF/158414.jpg</loc> <loc>https://i.postimg.cc/FzvCb7jb/158414-(1.jpg</loc> <loc>https://i.postimg.cc/sxzHPvp9/158414-(2.jpg</loc> <loc>https://i.postimg.cc/qqrDcz8L/158414-(4.jpg</loc></photos_urls>
@@ -639,6 +668,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
+<local_realty_id>31</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Ділянка під житлову забудову</realty_type>
 <photos_urls><loc>https://i.postimg.cc/qqrDcz8M/108336.jpg</loc> <loc>https://i.postimg.cc/FR3nJjJJ/108336-(2.jpg</loc></photos_urls>
@@ -661,6 +691,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
+<local_realty_id>32</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Ділянка під житлову забудову</realty_type>
 <photos_urls><loc>https://i.postimg.cc/zXj6jS28/19945.jpg</loc> <loc>https://i.postimg.cc/rFJ3JCZT/19945-(2.jpg</loc> <loc>https://i.postimg.cc/GhQVQJgr/19945-(3.jpg</loc></photos_urls>
@@ -683,6 +714,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
+<local_realty_id>33</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Ділянка під житлову забудову</realty_type>
 <photos_urls><loc>https://i.postimg.cc/Y9Yym1LZ/90737.jpg</loc> <loc>https://i.postimg.cc/Y9Yym1LV/90737-(2.jpg</loc></photos_urls>
@@ -705,6 +737,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
+<local_realty_id>34</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Ділянка під житлову забудову</realty_type>
 <photos_urls><loc>https://i.postimg.cc/KvFCBsfX/8702.jpg</loc> <loc>https://i.postimg.cc/bN84kFTF/8702-(1.jpg</loc> <loc>https://i.postimg.cc/3J7zmbBs/8702-(2.jpg</loc></photos_urls>
@@ -727,6 +760,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
+<local_realty_id>35</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Ділянка під житлову забудову</realty_type>
 <photos_urls><loc>https://i.postimg.cc/prvcQpDy/133274.jpg</loc></photos_urls>
@@ -749,6 +783,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
+<local_realty_id>36</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Земля сільськогосподарського призначення</realty_type>
 <photos_urls><loc>https://i.postimg.cc/fRRFgt1d/30304.jpg</loc></photos_urls>
@@ -771,6 +806,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
+<local_realty_id>37</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Ділянка під житлову забудову</realty_type>
 <photos_urls><loc>https://i.postimg.cc/tJbvdYh2/158416.jpg</loc> <loc>https://i.postimg.cc/Bb375Xxm/158416-(1.jpg</loc> <loc>https://i.postimg.cc/PJHVbPm6/158416-(2.jpg</loc></photos_urls>
@@ -793,6 +829,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
+<local_realty_id>38</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Ділянка під житлову забудову</realty_type>
 <photos_urls><loc>https://i.postimg.cc/7hJd9pRW/5089-(3.jpg</loc> <loc>https://i.postimg.cc/kMWkVdxN/5089.jpg</loc> <loc>https://i.postimg.cc/CMbWZVjj/5089-(2.jpg</loc> <loc>https://i.postimg.cc/Y2QJ4w1Y/5089-(4.jpg</loc> <loc>https://i.postimg.cc/057L6qpY/5089-(5.jpg</loc></photos_urls>
@@ -815,6 +852,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
+<local_realty_id>39</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Ділянка під житлову забудову</realty_type>
 <photos_urls><loc>https://i.postimg.cc/wTHnLb2x/17495.jpg</loc></photos_urls>
@@ -837,6 +875,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
+<local_realty_id>40</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Ділянка під житлову забудову</realty_type>
 <photos_urls><loc>https://i.postimg.cc/qMLSLXDV/18188.jpg</loc></photos_urls>
@@ -859,6 +898,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
+<local_realty_id>41</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Земля сільськогосподарського призначення</realty_type>
 <photos_urls><loc>https://i.postimg.cc/HLfhxSnS/41992.jpg</loc> <loc>https://i.postimg.cc/vmpNBPTL/41992-(2.jpg</loc> <loc>https://i.postimg.cc/6QDm3Hqf/41992-(3.jpg</loc> <loc>https://i.postimg.cc/CKWQ1v54/41992-(4.jpg</loc> <loc>https://i.postimg.cc/XvTzJ2qL/41992-(5.jpg</loc></photos_urls>
@@ -881,6 +921,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
+<local_realty_id>42</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Земля сільськогосподарського призначення</realty_type>
 <photos_urls><loc>https://i.postimg.cc/bwwMFD4s/21658.jpg</loc> <loc>https://i.postimg.cc/J4qvqcYX/21658-(2.jpg</loc> <loc>https://i.postimg.cc/4N5q5b2p/21658-(3.jpg</loc></photos_urls>
@@ -903,6 +944,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
+<local_realty_id>43</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Ділянка під житлову забудову</realty_type>
 <photos_urls><loc>https://i.postimg.cc/sgg80Qb9/29946.jpg</loc> <loc>https://i.postimg.cc/vZZjSgC6/29946-(2.jpg</loc> <loc>https://i.postimg.cc/pLL71h35/29946-(3.jpg</loc></photos_urls>
@@ -922,6 +964,7 @@
 <offer_type>від власника</offer_type>
 <without_commission>Так</without_commission>
 <inspections> <cadastral_urls> <loc>https://i.postimg.cc/zvpdpT0T/29946.jpg</loc></cadastral_urls> </inspections> </realty>
+
 
 
 </realties>
