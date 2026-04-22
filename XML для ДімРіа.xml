@@ -1,0 +1,927 @@
+<realties xmlns="http://dom.ria.com/xml/xsd/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://dom.ria.com/xml/xsd/ http://dom.ria.com/xml/xsd/dom.xsd">
+<generation_date>2026-04-07T11:40:00+03:00</generation_date>
+
+<realty> <email>filonovakaterina6@gmail.com</email>
+<phone>+380 93 566 74 06</phone>
+<advert_type>Продаж</advert_type>
+<realty_type>Ділянка під житлову забудову</realty_type>
+<photos_urls><loc>https://i.postimg.cc/jdKBPkX3/6409.jpg</loc> <loc>https://i.postimg.cc/TYGBgH9V/6409-(2.jpg</loc> <loc>https://i.postimg.cc/VsX3ScjG/6409-(3.jpg</loc> <loc>https://i.postimg.cc/bY1KGjQV/6409-(4.jpg</loc> <loc>https://i.postimg.cc/VL12nHR9/6409-(5.jpg</loc></photos_urls>
+<state>Тернопільська</state>
+<city>Підгородне</city>
+<cadastre>6125286900:02:001:3285</cadastre>
+<plot_area>0.1</plot_area>
+<plot_area_unit>гектар</plot_area_unit>
+<land_use_purpose>під житлову забудову</land_use_purpose>
+<description_uk>земельна ділянкаКадастровий номер: 6125286900:02:001:3285Опис об`єкта: Площа (га): 0.1, Дата державної реєстрації земельної ділянки:01.04.2016, орган, що здійснив державну реєстрацію земельноїділянки: Відділ Держгеокадастру у Тернопільському районіТернопільської областіЦільове призначення: для будівництва і обслуговування житлового будинку, господарськихбудівель і споруд (присадибна ділянка)Адреса: Тернопільська обл., Тернопільський р., с. Підгородне, вулицяНезалежності, земельна ділянка 19</description_uk>
+<utp_bargaining_is_appropriate>Так</utp_bargaining_is_appropriate>
+<utp_profitable_price>Так</utp_profitable_price>
+<utp_good_investment>Так</utp_good_investment>
+<price_type>за ділянку</price_type>
+<price>1000</price>
+<currency>грн</currency>
+<offer_type>від власника</offer_type>
+<without_commission>Так</without_commission>
+<inspections> <cadastral_urls> <loc>https://i.postimg.cc/8cg5Q6dr/6409-1.jpg</loc> <loc>https://i.postimg.cc/qqHRV3ch/6409-2.jpg</loc> <loc>https://i.postimg.cc/J0CnVk3H/6409-3.jpg</loc> <loc>https://i.postimg.cc/0j1QRwGw/6409-4.jpg</loc> <loc>https://i.postimg.cc/SRbsFMLG/6409-5.jpg</loc> <loc>https://i.postimg.cc/yxCd4Zhy/6409-6.jpg</loc> <loc>https://i.postimg.cc/Wzc3LkmX/6409-7.jpg</loc></cadastral_urls> </inspections> </realty>
+
+<realty> <email>filonovakaterina6@gmail.com</email>
+<phone>+380 93 566 74 06</phone>
+<advert_type>Продаж</advert_type>
+<realty_type>Земля сільськогосподарського призначення</realty_type>
+<photos_urls><loc>https://i.postimg.cc/CLY9k67g/12707.jpg</loc> <loc>https://i.postimg.cc/qM0WyZwV/12707-(2.jpg</loc></photos_urls>
+<state>Харківська</state>
+<city>Коротич</city>
+<cadastre>6325157000:02:012:0255</cadastre>
+<plot_area>0.12</plot_area>
+<plot_area_unit>гектар</plot_area_unit>
+<land_use_purpose>індивідуального садівництва</land_use_purpose>
+<description_uk>земельна ділянка: Кадастровий номер: 6325157000:02:012:0255; Опис об`єкта: Площа (га): 0.12, Дата державної реєстрації земельної ділянки:06.10.2015, орган, що здійснив державну реєстрацію земельної ділянки: Управління Держгеокадастру у Харківському районі Харківської області; Цільове призначення: для індивідуального садівництва; Адреса: Харківська обл., Харківський р., сщ/рада. Коротичанська</description_uk>
+<utp_bargaining_is_appropriate>Так</utp_bargaining_is_appropriate>
+<utp_profitable_price>Так</utp_profitable_price>
+<utp_good_investment>Так</utp_good_investment>
+<price_type>за ділянку</price_type>
+<price>1000</price>
+<currency>грн</currency>
+<offer_type>від власника</offer_type>
+<without_commission>Так</without_commission>
+<inspections> <cadastral_urls> <loc>https://i.postimg.cc/6qx3JvVm/12707.jpg</loc></cadastral_urls> </inspections> </realty>
+
+<realty> <email>filonovakaterina6@gmail.com</email>
+<phone>+380 93 566 74 06</phone>
+<advert_type>Продаж</advert_type>
+<realty_type>Земля сільськогосподарського призначення</realty_type>
+<photos_urls><loc>https://i.postimg.cc/kXczcF1k/16756.jpg</loc> <loc>https://i.postimg.cc/kX9LKhs7/16756-(2.jpg</loc> <loc>https://i.postimg.cc/28mghXGm/16756-(3.jpg</loc> <loc>https://i.postimg.cc/qM0WyZwk/16756-(4.jpg</loc></photos_urls>
+<state>Львівська</state>
+<city>Миртюки</city>
+<cadastre>4625381600:13:000:0009</cadastre>
+<plot_area>0.112</plot_area>
+<plot_area_unit>гектар</plot_area_unit>
+<land_use_purpose>індивідуального садівництва</land_use_purpose>
+<description_uk>земельна ділянка заг.площею 0.112 га, Для індивідуального садівництва кадастровий номер 4625381600:13:000:0009, що знах. за адресою: Львівська область, Стрийський район, с. Миртюки, вул. Коновальця, 23</description_uk>
+<utp_bargaining_is_appropriate>Так</utp_bargaining_is_appropriate>
+<utp_profitable_price>Так</utp_profitable_price>
+<utp_good_investment>Так</utp_good_investment>
+<price_type>за ділянку</price_type>
+<price>1000</price>
+<currency>грн</currency>
+<offer_type>від власника</offer_type>
+<without_commission>Так</without_commission>
+<inspections> <cadastral_urls> <loc>https://i.postimg.cc/Hn1xDy0P/16756.jpg</loc></cadastral_urls> </inspections> </realty>
+
+<realty> <email>filonovakaterina6@gmail.com</email>
+<phone>+380 93 566 74 06</phone>
+<advert_type>Продаж</advert_type>
+<realty_type>Земля сільськогосподарського призначення</realty_type>
+<photos_urls><loc>https://i.postimg.cc/650g0Lbs/17651.jpg</loc> <loc>https://i.postimg.cc/WbnCn6Yc/17651-(1.jpg</loc></photos_urls>
+<state>Харківська</state>
+<city>Руська Лозова</city>
+<cadastre>6322082000:03:000:0462</cadastre>
+<plot_area>0.12</plot_area>
+<plot_area_unit>гектар</plot_area_unit>
+<land_use_purpose>індивідуального садівництва</land_use_purpose>
+<description_uk>Об`єкт нерухомого майна: земельна ділянка. Кадастровий номер: 6322082000:03:000:0462 Опис об`єкта: Площа (га): 0.12, Дата державної реєстрації земельної ділянки: 06.06.2016, орган, що здійснив державну реєстрацію земельної ділянки: Відділ Держгеокадастру у Дергачівському районі Цільове призначення: для індивідуального садівництва. Харківська обл., Дергачівський р., с/рада. Русько-Лозівська</description_uk>
+<utp_bargaining_is_appropriate>Так</utp_bargaining_is_appropriate>
+<utp_profitable_price>Так</utp_profitable_price>
+<utp_good_investment>Так</utp_good_investment>
+<price_type>за ділянку</price_type>
+<price>1000</price>
+<currency>грн</currency>
+<offer_type>від власника</offer_type>
+<without_commission>Так</without_commission> </realty>
+
+<realty> <email>filonovakaterina6@gmail.com</email>
+<phone>+380 93 566 74 06</phone>
+<advert_type>Продаж</advert_type>
+<realty_type>Земля сільськогосподарського призначення</realty_type>
+<photos_urls><loc>https://i.postimg.cc/Bn7yWZGm/31410.jpg</loc> <loc>https://i.postimg.cc/8zz3nJxq/31410-(2.jpg</loc> <loc>https://i.postimg.cc/XYYhDGtz/31410-(3.jpg</loc></photos_urls>
+<state>Рівненська</state>
+<city>Біла Криниця</city>
+<cadastre>5624680700:01:001:0106</cadastre>
+<plot_area>0.1012</plot_area>
+<plot_area_unit>гектар</plot_area_unit>
+<land_use_purpose>індивідуального садівництва</land_use_purpose>
+<description_uk>земельна ділянка, реєстраційний/кадастровий номер 5624680700:01:001:0106,місцезнаходження: Рівненська обл., Рівненський р., с/рада. Білокриницькакадастровий номер: 5624680700:01:001:0106; площа (га): 0,1012; цільовепризначення: 01.05 Для індивідуального садівництва; категорія земель: землісільськогосподарського призначення; вид використання: для індивідуальногосадівництва; місце розташування: Рівненська область, Рівненський район,Білокриницька сільська рада. Форма з/д: прямокутна. Наявність комунікаційвізуально встановити не можливо. Земельна ділянка вільна від забудови. Під`їзнадорога - грунтова. Здійснено фотофіксацію земельної ділянки.</description_uk>
+<utp_bargaining_is_appropriate>Так</utp_bargaining_is_appropriate>
+<utp_profitable_price>Так</utp_profitable_price>
+<utp_good_investment>Так</utp_good_investment>
+<price_type>за ділянку</price_type>
+<price>1000</price>
+<currency>грн</currency>
+<offer_type>від власника</offer_type>
+<without_commission>Так</without_commission>
+<inspections> <cadastral_urls> <loc>https://i.postimg.cc/mkVdV783/31410.jpg</loc></cadastral_urls> </inspections> </realty>
+
+<realty> <email>filonovakaterina6@gmail.com</email>
+<phone>+380 93 566 74 06</phone>
+<advert_type>Продаж</advert_type>
+<realty_type>Земля сільськогосподарського призначення</realty_type>
+<photos_urls><loc>https://i.postimg.cc/FHCqtF4H/35684.jpg</loc> <loc>https://i.postimg.cc/pLc7NVtw/35684-(2.jpg</loc> <loc>https://i.postimg.cc/RZp8rCB5/35684-(3.jpg</loc> <loc>https://i.postimg.cc/FHCqtF4t/35684-(4.jpg</loc> <loc>https://i.postimg.cc/mgpqxZs4/35684-(5.jpg</loc></photos_urls>
+<state>Одеська</state>
+<city>Дачне</city>
+<cadastre>5121082400:01:004:0492</cadastre>
+<plot_area>0.025</plot_area>
+<plot_area_unit>гектар</plot_area_unit>
+<land_use_purpose>індивідуального садівництва</land_use_purpose>
+<description_uk>Об`єкт нерухомого майна: земельна ділянка Кадастровий номер: 5121082400:01:004:0492 Опис об`єкта: Площа: 0.025га Цільове призначення: землі сільськогосподарського призначення</description_uk>
+<utp_bargaining_is_appropriate>Так</utp_bargaining_is_appropriate>
+<utp_profitable_price>Так</utp_profitable_price>
+<utp_good_investment>Так</utp_good_investment>
+<price_type>за ділянку</price_type>
+<price>1000</price>
+<currency>грн</currency>
+<offer_type>від власника</offer_type>
+<without_commission>Так</without_commission> </realty>
+
+<realty> <email>filonovakaterina6@gmail.com</email>
+<phone>+380 93 566 74 06</phone>
+<advert_type>Продаж</advert_type>
+<realty_type>Земля сільськогосподарського призначення</realty_type>
+<photos_urls><loc>https://i.postimg.cc/MGhFTsH9/42118.jpg</loc></photos_urls>
+<state>Кіровоградська</state>
+<city>Фурманівка</city>
+<cadastre>3524087000:51:000:0058</cadastre>
+<plot_area>0.12</plot_area>
+<plot_area_unit>гектар</plot_area_unit>
+<land_use_purpose>індивідуального садівництва</land_use_purpose>
+<description_uk>Об`єкт нерухомого майна: земельна ділянка Кадастровий номер: 3524087000:51:000:0058 Опис об`єкта: Площа: 0.12га</description_uk>
+<utp_bargaining_is_appropriate>Так</utp_bargaining_is_appropriate>
+<utp_profitable_price>Так</utp_profitable_price>
+<utp_good_investment>Так</utp_good_investment>
+<price_type>за ділянку</price_type>
+<price>1000</price>
+<currency>грн</currency>
+<offer_type>від власника</offer_type>
+<without_commission>Так</without_commission>
+<inspections> <cadastral_urls> <loc>https://i.postimg.cc/VsFHYcmy/42118.jpg</loc></cadastral_urls> </inspections> </realty>
+
+<realty> <email>filonovakaterina6@gmail.com</email>
+<phone>+380 93 566 74 06</phone>
+<advert_type>Продаж</advert_type>
+<realty_type>Ділянка під житлову забудову</realty_type>
+<photos_urls><loc>https://i.postimg.cc/YSJs9X0y/42174.jpg</loc></photos_urls>
+<state>Львівська</state>
+<city>Воля-Висоцька</city>
+<cadastre>4622781200:05:005:0051</cadastre>
+<plot_area>0.15</plot_area>
+<plot_area_unit>гектар</plot_area_unit>
+<land_use_purpose>під житлову забудову</land_use_purpose>
+<description_uk>Об`єкт нерухомого майна: земельна ділянка Кадастровий номер: 4622781200:05:005:0051 Опис об`єкта: Площа: 0.15га</description_uk>
+<utp_bargaining_is_appropriate>Так</utp_bargaining_is_appropriate>
+<utp_profitable_price>Так</utp_profitable_price>
+<utp_good_investment>Так</utp_good_investment>
+<price_type>за ділянку</price_type>
+<price>1000</price>
+<currency>грн</currency>
+<offer_type>від власника</offer_type>
+<without_commission>Так</without_commission>
+<inspections> <cadastral_urls> <loc>https://i.postimg.cc/qqc7kvQF/42174.jpg</loc></cadastral_urls> </inspections> </realty>
+
+<realty> <email>filonovakaterina6@gmail.com</email>
+<phone>+380 93 566 74 06</phone>
+<advert_type>Продаж</advert_type>
+<realty_type>Земля сільськогосподарського призначення</realty_type>
+<photos_urls><loc>https://i.postimg.cc/ZRpDyrvQ/46437.jpg</loc> <loc>https://i.postimg.cc/tgLMTrJL/46437-(1.jpg</loc> <loc>https://i.postimg.cc/zf9cBd3Z/46437-(2.jpg</loc> <loc>https://i.postimg.cc/9fvnMxzH/46437-(3.jpg</loc> <loc>https://i.postimg.cc/nL6PzdMJ/46437-(4.jpg</loc></photos_urls>
+<state>Дніпропетровська</state>
+<city>Троїцьке</city>
+<cadastre>1223587200:01:003:0306</cadastre>
+<plot_area>0.06</plot_area>
+<plot_area_unit>гектар</plot_area_unit>
+<land_use_purpose>індивідуального садівництва</land_use_purpose>
+<description_uk>Об`єкт нерухомого майна: земельна ділянка Кадастровий номер: 1223587200:01:003:0306 Опис об`єкта: Площа: 0.06га Цільове призначення: для індивідуального садівництва</description_uk>
+<utp_bargaining_is_appropriate>Так</utp_bargaining_is_appropriate>
+<utp_profitable_price>Так</utp_profitable_price>
+<utp_good_investment>Так</utp_good_investment>
+<price_type>за ділянку</price_type>
+<price>1000</price>
+<currency>грн</currency>
+<offer_type>від власника</offer_type>
+<without_commission>Так</without_commission>
+<inspections> <cadastral_urls> <loc>https://i.postimg.cc/7h1LxZXj/46437-1.jpg</loc> <loc>https://i.postimg.cc/vT7mQZXp/46437-2.jpg</loc> <loc>https://i.postimg.cc/cC7JsLTp/46437-3.jpg</loc> <loc>https://i.postimg.cc/Vv9NYkDy/46437-4.jpg</loc> <loc>https://i.postimg.cc/PJbqt52h/46437-5.jpg</loc> <loc>https://i.postimg.cc/2yd5zS2j/46437-6.jpg</loc> <loc>https://i.postimg.cc/qB2qc10t/46437-7.jpg</loc></cadastral_urls> </inspections> </realty>
+
+<realty> <email>filonovakaterina6@gmail.com</email>
+<phone>+380 93 566 74 06</phone>
+<advert_type>Продаж</advert_type>
+<realty_type>Земля сільськогосподарського призначення</realty_type>
+<photos_urls><loc>https://i.postimg.cc/PJHVbPmX/94264.jpg</loc> <loc>https://i.postimg.cc/9MZNqGqh/94264-(1.jpg</loc> <loc>https://i.postimg.cc/rmxYtStD/94264-(10.jpg</loc> <loc>https://i.postimg.cc/50LkFwFY/94264-(11.jpg</loc> <loc>https://i.postimg.cc/wvLbshsd/94264-(2.jpg</loc></photos_urls>
+<state>Чернігівська</state>
+<city>Новий Білоус</city>
+<cadastre>7425585500:08:000:1001</cadastre>
+<plot_area>0.1</plot_area>
+<plot_area_unit>гектар</plot_area_unit>
+<land_use_purpose>індивідуального садівництва</land_use_purpose>
+<description_uk>Об`єкт нерухомого майна: земельна ділянка Кадастровий номер: 7425585500:08:000:1001 Опис об`єкта: Площа: 0.1га Цільове призначення: для індивідуального садівництва Адреса: Чернігівська обл., Чернігівський р., с. Новий Білоус, "Мрія" садівниче товариство, земельна ділянка 1</description_uk>
+<utp_bargaining_is_appropriate>Так</utp_bargaining_is_appropriate>
+<utp_profitable_price>Так</utp_profitable_price>
+<utp_good_investment>Так</utp_good_investment>
+<price_type>за ділянку</price_type>
+<price>1000</price>
+<currency>грн</currency>
+<offer_type>від власника</offer_type>
+<without_commission>Так</without_commission>
+<inspections> <cadastral_urls> <loc>https://i.postimg.cc/wxDM5wHR/94264.jpg</loc></cadastral_urls> </inspections> </realty>
+
+<realty> <email>filonovakaterina6@gmail.com</email>
+<phone>+380 93 566 74 06</phone>
+<advert_type>Продаж</advert_type>
+<realty_type>Ділянка під житлову забудову</realty_type>
+<photos_urls><loc>https://i.postimg.cc/LsrbXy5Q/42169.jpg</loc></photos_urls>
+<state>Львівська</state>
+<city>Судова Вишня</city>
+<cadastre>4622410500:02:002:0277</cadastre>
+<plot_area>0.1</plot_area>
+<plot_area_unit>гектар</plot_area_unit>
+<land_use_purpose>під житлову забудову</land_use_purpose>
+<description_uk>Об`єкт нерухомого майна: земельна ділянка Кадастровий номер: 4622410500:02:002:0277 Опис об`єкта: Площа: 0.1га Цільове призначення: для будівництва і обслуговування житлового будинку, господарських будівель і споруд (присадибна ділянка) Адреса: Львівська обл., Мостиський р., м. Судова Вишня, вулиця Небесної Сотні, земельна ділянка 60</description_uk>
+<utp_bargaining_is_appropriate>Так</utp_bargaining_is_appropriate>
+<utp_profitable_price>Так</utp_profitable_price>
+<utp_good_investment>Так</utp_good_investment>
+<price_type>за ділянку</price_type>
+<price>1000</price>
+<currency>грн</currency>
+<offer_type>від власника</offer_type>
+<without_commission>Так</without_commission>
+<inspections> <cadastral_urls> <loc>https://i.postimg.cc/1RKY9Zsh/42169.jpg</loc></cadastral_urls> </inspections> </realty>
+
+<realty> <email>filonovakaterina6@gmail.com</email>
+<phone>+380 93 566 74 06</phone>
+<advert_type>Продаж</advert_type>
+<realty_type>Земля сільськогосподарського призначення</realty_type>
+<photos_urls><loc>https://i.postimg.cc/Pr494zVJ/20009.jpg</loc> <loc>https://i.postimg.cc/RVRyRQpS/20009-(2.jpg</loc> <loc>https://i.postimg.cc/RVRyRQpV/20009-(3.jpg</loc> <loc>https://i.postimg.cc/VLRpRBZN/20009-(4.jpg</loc></photos_urls>
+<state>Київська</state>
+<city>Велика Снітинка</city>
+<cadastre>3224981200:01:006:0110</cadastre>
+<plot_area>0.114</plot_area>
+<plot_area_unit>гектар</plot_area_unit>
+<land_use_purpose>індивідуального садівництва</land_use_purpose>
+<description_uk>Об`єкт нерухомого майна: земельна ділянка. Кадастровий номер: 3224981200:01:006:0110 Опис об`єкта: Площа (га): 0.114</description_uk>
+<utp_bargaining_is_appropriate>Так</utp_bargaining_is_appropriate>
+<utp_profitable_price>Так</utp_profitable_price>
+<utp_good_investment>Так</utp_good_investment>
+<price_type>за ділянку</price_type>
+<price>1000</price>
+<currency>грн</currency>
+<offer_type>від власника</offer_type>
+<without_commission>Так</without_commission>
+<inspections> <cadastral_urls> <loc>https://i.postimg.cc/SRVZVcDR/20009-1.jpg</loc> <loc>https://i.postimg.cc/7hXBXSmb/20009-2.jpg</loc> <loc>https://i.postimg.cc/yxnfn0vk/20009-3.jpg</loc> <loc>https://i.postimg.cc/zvpdpT0L/20009-4.jpg</loc> <loc>https://i.postimg.cc/sxKnK5wG/20009-5.jpg</loc></cadastral_urls> </inspections> </realty>
+
+<realty> <email>filonovakaterina6@gmail.com</email>
+<phone>+380 93 566 74 06</phone>
+<advert_type>Продаж</advert_type>
+<realty_type>Ділянка під житлову забудову</realty_type>
+<photos_urls><loc>https://i.postimg.cc/15H2Hc74/20357.jpg</loc></photos_urls>
+<state>Черкаська</state>
+<city>Сигнаївка</city>
+<cadastre>7125786400:01:001:0408</cadastre>
+<plot_area>0.25</plot_area>
+<plot_area_unit>гектар</plot_area_unit>
+<land_use_purpose>під житлову забудову</land_use_purpose>
+<description_uk>Об`єкт нерухомого майна: земельна ділянка, Розділ в процесі відкриття. Кадастровий номер: 7125786400:01:001:0408 Опис об`єкта: Площа (га): 0.25 Цільове призначення: для будівництва і обслуговування житлового будинку, господарських будівель і споруд (присадибна ділянка). Черкаська обл., Шполянський р., с. Сигнаївка, вулиця Чапаєва, будинок 14</description_uk>
+<utp_bargaining_is_appropriate>Так</utp_bargaining_is_appropriate>
+<utp_profitable_price>Так</utp_profitable_price>
+<utp_good_investment>Так</utp_good_investment>
+<price_type>за ділянку</price_type>
+<price>1000</price>
+<currency>грн</currency>
+<offer_type>від власника</offer_type>
+<without_commission>Так</without_commission>
+<inspections> <cadastral_urls> <loc>https://i.postimg.cc/Vv9NYk4Z/20357.jpg</loc></cadastral_urls> </inspections> </realty>
+
+<realty> <email>filonovakaterina6@gmail.com</email>
+<phone>+380 93 566 74 06</phone>
+<advert_type>Продаж</advert_type>
+<realty_type>Ділянка під житлову забудову</realty_type>
+<photos_urls><loc>https://i.postimg.cc/t4vf0RjJ/38844.jpg</loc> <loc>https://i.postimg.cc/7ZtcvPkb/38844-(2.jpg</loc></photos_urls>
+<state>Закарпатська</state>
+<city>Обава</city>
+<cadastre>2122786200:10:101:0051</cadastre>
+<plot_area>0.0231</plot_area>
+<plot_area_unit>гектар</plot_area_unit>
+<land_use_purpose>під житлову забудову</land_use_purpose>
+<description_uk>Об`єкт нерухомого майна: земельна ділянка Кадастровий номер: 2122786200:10:101:0051 Опис об`єкта: Площа: 0.0231га</description_uk>
+<utp_bargaining_is_appropriate>Так</utp_bargaining_is_appropriate>
+<utp_profitable_price>Так</utp_profitable_price>
+<utp_good_investment>Так</utp_good_investment>
+<price_type>за ділянку</price_type>
+<price>1000</price>
+<currency>грн</currency>
+<offer_type>від власника</offer_type>
+<without_commission>Так</without_commission>
+<inspections> <cadastral_urls> <loc>https://i.postimg.cc/qqQmQ2jw/38844.jpg</loc></cadastral_urls> </inspections> </realty>
+
+<realty> <email>filonovakaterina6@gmail.com</email>
+<phone>+380 93 566 74 06</phone>
+<advert_type>Продаж</advert_type>
+<realty_type>Ділянка під житлову забудову</realty_type>
+<photos_urls><loc>https://i.postimg.cc/T3NS82XQ/32882.jpg</loc></photos_urls>
+<state>Житомирська</state>
+<city>Клітня</city>
+<cadastre>1823481200:02:001:0033</cadastre>
+<plot_area>0.25</plot_area>
+<plot_area_unit>гектар</plot_area_unit>
+<land_use_purpose>під житлову забудову</land_use_purpose>
+<description_uk>Об`єкт нерухомого майна: земельна ділянка Кадастровий номер: 1823481200:02:001:0033 Опис об`єкта: Площа: 0.25га Цільове призначення: для будівництва і обслуговування житлового будинку, господарських будівель і споруд (присадибна ділянка) Адреса: Житомирська обл., Малинський р., с. Клітня</description_uk>
+<utp_bargaining_is_appropriate>Так</utp_bargaining_is_appropriate>
+<utp_profitable_price>Так</utp_profitable_price>
+<utp_good_investment>Так</utp_good_investment>
+<price_type>за ділянку</price_type>
+<price>1000</price>
+<currency>грн</currency>
+<offer_type>від власника</offer_type>
+<without_commission>Так</without_commission>
+<inspections> <cadastral_urls> <loc>https://i.postimg.cc/hvMCMVp0/32882.jpg</loc></cadastral_urls> </inspections> </realty>
+
+<realty> <email>filonovakaterina6@gmail.com</email>
+<phone>+380 93 566 74 06</phone>
+<advert_type>Продаж</advert_type>
+<realty_type>Земля сільськогосподарського призначення</realty_type>
+<photos_urls><loc>https://i.postimg.cc/dtBpBmNy/20873.jpg</loc> <loc>https://i.postimg.cc/8PH9HBXr/20873-(2.jpg</loc> <loc>https://i.postimg.cc/ZKc2cFs3/20873-(3.jpg</loc></photos_urls>
+<state>Чернігівська</state>
+<city>Євминка</city>
+<cadastre>7422082701:34:100:0031</cadastre>
+<plot_area>0.12</plot_area>
+<plot_area_unit>гектар</plot_area_unit>
+<land_use_purpose>індивідуального садівництва</land_use_purpose>
+<description_uk>Об`єкт нерухомого майна: земельна ділянка. Кадастровий номер: 7422082701:34:100:0031 Опис об`єкта: Площа (га): 0.12</description_uk>
+<utp_bargaining_is_appropriate>Так</utp_bargaining_is_appropriate>
+<utp_profitable_price>Так</utp_profitable_price>
+<utp_good_investment>Так</utp_good_investment>
+<price_type>за ділянку</price_type>
+<price>1000</price>
+<currency>грн</currency>
+<offer_type>від власника</offer_type>
+<without_commission>Так</without_commission>
+<inspections> <cadastral_urls> <loc>https://i.postimg.cc/gj4M43N6/20873.jpg</loc> <loc>https://i.postimg.cc/KjQ9QtJT/20873-1.jpg</loc></cadastral_urls> </inspections> </realty>
+
+<realty> <email>filonovakaterina6@gmail.com</email>
+<phone>+380 93 566 74 06</phone>
+<advert_type>Продаж</advert_type>
+<realty_type>Ділянка під житлову забудову</realty_type>
+<photos_urls><loc>https://i.postimg.cc/GpZ52Mtk/40822.jpg</loc></photos_urls>
+<state>Львівська</state>
+<city>Гостинцеве</city>
+<cadastre>4622481200:17:001:0050</cadastre>
+<plot_area>0.15</plot_area>
+<plot_area_unit>гектар</plot_area_unit>
+<land_use_purpose>під житлову забудову</land_use_purpose>
+<description_uk>Об`єкт нерухомого майна: земельна ділянка Кадастровий номер: 4622481200:17:001:0050 Опис об`єкта: Площа: 0.15га Цільове призначення: для будівництва і обслуговування житлового будинку, господарських будівель і споруд (присадибна ділянка) Адреса: Львівська обл., Мостиський р., с. Гостинцеве</description_uk>
+<utp_bargaining_is_appropriate>Так</utp_bargaining_is_appropriate>
+<utp_profitable_price>Так</utp_profitable_price>
+<utp_good_investment>Так</utp_good_investment>
+<price_type>за ділянку</price_type>
+<price>1000</price>
+<currency>грн</currency>
+<offer_type>від власника</offer_type>
+<without_commission>Так</without_commission>
+<inspections> <cadastral_urls> <loc>https://i.postimg.cc/fy7bwR5B/40822.jpg</loc></cadastral_urls> </inspections> </realty>
+
+<realty> <email>filonovakaterina6@gmail.com</email>
+<phone>+380 93 566 74 06</phone>
+<advert_type>Продаж</advert_type>
+<realty_type>Земля сільськогосподарського призначення</realty_type>
+<photos_urls><loc>https://i.postimg.cc/QCDYgHpH/137229.jpg</loc></photos_urls>
+<state>Львівська</state>
+<city>Солонське</city>
+<cadastre>4621287200:04:000:2069</cadastre>
+<plot_area>0.051</plot_area>
+<plot_area_unit>гектар</plot_area_unit>
+<land_use_purpose>індивідуального садівництва</land_use_purpose>
+<description_uk>Об`єкт нерухомого майна: земельна ділянка Кадастровий номер: 4621287200:04:000:2069 Опис об`єкта: Площа: 0.051га</description_uk>
+<utp_bargaining_is_appropriate>Так</utp_bargaining_is_appropriate>
+<utp_profitable_price>Так</utp_profitable_price>
+<utp_good_investment>Так</utp_good_investment>
+<price_type>за ділянку</price_type>
+<price>1000</price>
+<currency>грн</currency>
+<offer_type>від власника</offer_type>
+<without_commission>Так</without_commission>
+<inspections> <cadastral_urls> <loc>https://i.postimg.cc/fWYy78Z9/137229.jpg</loc></cadastral_urls> </inspections> </realty>
+
+<realty> <email>filonovakaterina6@gmail.com</email>
+<phone>+380 93 566 74 06</phone>
+<advert_type>Продаж</advert_type>
+<realty_type>Ділянка під житлову забудову</realty_type>
+<photos_urls><loc>https://i.postimg.cc/R0jDFPhf/39981.jpg</loc></photos_urls>
+<state>Одеська</state>
+<city>Протопопівка</city>
+<cadastre>5121080300:05:001:1177</cadastre>
+<plot_area>0.12</plot_area>
+<plot_area_unit>гектар</plot_area_unit>
+<land_use_purpose>під житлову забудову</land_use_purpose>
+<description_uk>Об`єкт нерухомого майна: земельна ділянка Кадастровий номер: 5121080300:05:001:1177 Опис об`єкта: Площа: 0.12га Цільове призначення: для будівництва і обслуговування житлового будинку, господарських будівель і споруд (присадибна ділянка) Адреса: Одеська обл., Біляївський р., с. Протопопівка, вулиця Дорожна, земельна ділянка 41</description_uk>
+<utp_bargaining_is_appropriate>Так</utp_bargaining_is_appropriate>
+<utp_profitable_price>Так</utp_profitable_price>
+<utp_good_investment>Так</utp_good_investment>
+<price_type>за ділянку</price_type>
+<price>1000</price>
+<currency>грн</currency>
+<offer_type>від власника</offer_type>
+<without_commission>Так</without_commission>
+<inspections> <cadastral_urls> <loc>https://i.postimg.cc/y6TrVzBw/39981.jpg</loc></cadastral_urls> </inspections> </realty>
+
+<realty> <email>filonovakaterina6@gmail.com</email>
+<phone>+380 93 566 74 06</phone>
+<advert_type>Продаж</advert_type>
+<realty_type>Земля сільськогосподарського призначення</realty_type>
+<photos_urls><loc>https://i.postimg.cc/9fvnMx06/42528.jpg</loc> <loc>https://i.postimg.cc/MGhFTsHF/42528-(2.jpg</loc></photos_urls>
+<state>Рівненська</state>
+<city>Шубків</city>
+<cadastre>5624689800:08:037:0035</cadastre>
+<plot_area>0.06</plot_area>
+<plot_area_unit>гектар</plot_area_unit>
+<land_use_purpose>індивідуального садівництва</land_use_purpose>
+<description_uk>Об`єкт нерухомого майна: земельна ділянка Кадастровий номер: 5624689800:08:037:0035 Опис об`єкта: Площа: 0.12га Цільове призначення: для індивідуального садівництва Адреса: Рівненська обл., Рівненський р., с/рада. Шубківська</description_uk>
+<utp_bargaining_is_appropriate>Так</utp_bargaining_is_appropriate>
+<utp_profitable_price>Так</utp_profitable_price>
+<utp_good_investment>Так</utp_good_investment>
+<price_type>за ділянку</price_type>
+<price>1000</price>
+<currency>грн</currency>
+<offer_type>від власника</offer_type>
+<without_commission>Так</without_commission>
+<inspections> <cadastral_urls> <loc>https://i.postimg.cc/G3jSc1dn/42528.jpg</loc></cadastral_urls> </inspections> </realty>
+
+<realty> <email>filonovakaterina6@gmail.com</email>
+<phone>+380 93 566 74 06</phone>
+<advert_type>Продаж</advert_type>
+<realty_type>Земля сільськогосподарського призначення</realty_type>
+<photos_urls><loc>https://i.postimg.cc/Bv8zJWSn/38961-1.jpg</loc> <loc>https://i.postimg.cc/mrcnTxLr/38961-2.jpg</loc> <loc>https://i.postimg.cc/Bv8zJWSt/38961-3.jpg</loc> <loc>https://i.postimg.cc/cJKzdqxr/38961-4.jpg</loc> <loc>https://i.postimg.cc/8CFYT8pB/38961-5.jpg</loc></photos_urls>
+<state>Запорізька</state>
+<city>Лукашеве</city>
+<cadastre>2322184600:11:001:0479</cadastre>
+<plot_area>0.0486</plot_area>
+<plot_area_unit>гектар</plot_area_unit>
+<land_use_purpose>індивідуального садівництва</land_use_purpose>
+<description_uk>Об`єкт нерухомого майна: земельна ділянка Кадастровий номер: 2322184600:11:001:0479 Опис об`єкта: Площа: 0.0486га Цільове призначення: Інше Адреса: Запорізька обл., Запорізький р., с/рада. Лукашівська</description_uk>
+<utp_bargaining_is_appropriate>Так</utp_bargaining_is_appropriate>
+<utp_profitable_price>Так</utp_profitable_price>
+<utp_good_investment>Так</utp_good_investment>
+<price_type>за ділянку</price_type>
+<price>1000</price>
+<currency>грн</currency>
+<offer_type>від власника</offer_type>
+<without_commission>Так</without_commission>
+<inspections> <cadastral_urls> <loc>https://i.postimg.cc/HWtPpCHK/38961.jpg</loc></cadastral_urls> </inspections> </realty>
+
+<realty> <email>filonovakaterina6@gmail.com</email>
+<phone>+380 93 566 74 06</phone>
+<advert_type>Продаж</advert_type>
+<realty_type>Земля сільськогосподарського призначення</realty_type>
+<photos_urls><loc>https://i.postimg.cc/3wPcRLNj/41703.jpg</loc></photos_urls>
+<state>Хмельницька</state>
+<city>Шаровечка</city>
+<cadastre>6825089600:04:005:1341</cadastre>
+<plot_area>0.12</plot_area>
+<plot_area_unit>гектар</plot_area_unit>
+<land_use_purpose>індивідуального садівництва</land_use_purpose>
+<description_uk>Об`єкт нерухомого майна: земельна ділянка Кадастровий номер: 6825089600:04:005:1341 Опис об`єкта: Площа: 0.12га Цільове призначення: для індивідуального садівництва Адреса: Хмельницька обл., Хмельницький р., с/рада. Шаровечківська</description_uk>
+<utp_bargaining_is_appropriate>Так</utp_bargaining_is_appropriate>
+<utp_profitable_price>Так</utp_profitable_price>
+<utp_good_investment>Так</utp_good_investment>
+<price_type>за ділянку</price_type>
+<price>1000</price>
+<currency>грн</currency>
+<offer_type>від власника</offer_type>
+<without_commission>Так</without_commission>
+<inspections> <cadastral_urls> <loc>https://i.postimg.cc/FFxn9QmM/41703.jpg</loc></cadastral_urls> </inspections> </realty>
+
+<realty> <email>filonovakaterina6@gmail.com</email>
+<phone>+380 93 566 74 06</phone>
+<advert_type>Продаж</advert_type>
+<realty_type>Ділянка під житлову забудову</realty_type>
+<photos_urls><loc>https://i.postimg.cc/yxKphkFR/144175.jpg</loc></photos_urls>
+<state>Кіровоградська</state>
+<city>Нова Павлівка</city>
+<cadastre>3522587200:53:000:0135</cadastre>
+<plot_area>0.22</plot_area>
+<plot_area_unit>гектар</plot_area_unit>
+<land_use_purpose>під житлову забудову</land_use_purpose>
+<description_uk>Об`єкт нерухомого майна: земельна ділянка Кадастровий номер: 3522587200:53:000:0135 Опис об`єкта: Площа: 0.22га Адреса: Кіровоградська обл., Кропивницький р., с. Нова Павлівка, вулиця Полинкіна, земельна ділянка 97</description_uk>
+<utp_bargaining_is_appropriate>Так</utp_bargaining_is_appropriate>
+<utp_profitable_price>Так</utp_profitable_price>
+<utp_good_investment>Так</utp_good_investment>
+<price_type>за ділянку</price_type>
+<price>1000</price>
+<currency>грн</currency>
+<offer_type>від власника</offer_type>
+<without_commission>Так</without_commission>
+<inspections> <cadastral_urls> <loc>https://i.postimg.cc/G3jSc1d4/144175.jpg</loc></cadastral_urls> </inspections> </realty>
+
+<realty> <email>filonovakaterina6@gmail.com</email>
+<phone>+380 93 566 74 06</phone>
+<advert_type>Продаж</advert_type>
+<realty_type>Ділянка під житлову забудову</realty_type>
+<photos_urls><loc>https://i.postimg.cc/B6Hw1xPd/90754.jpg</loc></photos_urls>
+<state>Житомирська</state>
+<city>Любовичі</city>
+<cadastre>1823484800:10:000:0122</cadastre>
+<plot_area>0.25</plot_area>
+<plot_area_unit>гектар</plot_area_unit>
+<land_use_purpose>під житлову забудову</land_use_purpose>
+<description_uk>Об`єкт нерухомого майна: земельна ділянка Кадастровий номер: 1823484800:10:000:0122 Опис об`єкта: Площа: 0.25га</description_uk>
+<utp_bargaining_is_appropriate>Так</utp_bargaining_is_appropriate>
+<utp_profitable_price>Так</utp_profitable_price>
+<utp_good_investment>Так</utp_good_investment>
+<price_type>за ділянку</price_type>
+<price>1000</price>
+<currency>грн</currency>
+<offer_type>від власника</offer_type>
+<without_commission>Так</without_commission>
+<inspections> <cadastral_urls> <loc>https://i.postimg.cc/T2cHRXfx/90754.jpg</loc> <loc>https://i.postimg.cc/MZYrW8qq/90754-1.jpg</loc></cadastral_urls> </inspections> </realty>
+
+<realty> <email>filonovakaterina6@gmail.com</email>
+<phone>+380 93 566 74 06</phone>
+<advert_type>Продаж</advert_type>
+<realty_type>Земля сільськогосподарського призначення</realty_type>
+<photos_urls><loc>https://i.postimg.cc/L5SQknzZ/140828.jpg</loc> <loc>https://i.postimg.cc/ZnmsPCrv/140828-(2.jpg</loc></photos_urls>
+<state>Рівненська</state>
+<city>Тинне</city>
+<cadastre>5625488000:01:003:0082</cadastre>
+<plot_area>0.12</plot_area>
+<plot_area_unit>гектар</plot_area_unit>
+<land_use_purpose>індивідуального садівництва</land_use_purpose>
+<description_uk>Об`єкт нерухомого майна: земельна ділянка Кадастровий номер: 5625488000:01:003:0082 Опис об`єкта: Площа: 0.12га Адреса: Рівненська обл., Сарненський р., с. Тинне, Піль хутір</description_uk>
+<utp_bargaining_is_appropriate>Так</utp_bargaining_is_appropriate>
+<utp_profitable_price>Так</utp_profitable_price>
+<utp_good_investment>Так</utp_good_investment>
+<price_type>за ділянку</price_type>
+<price>1000</price>
+<currency>грн</currency>
+<offer_type>від власника</offer_type>
+<without_commission>Так</without_commission>
+<inspections> <cadastral_urls> <loc>https://i.postimg.cc/XNgDV04v/140828.jpg</loc></cadastral_urls> </inspections> </realty>
+
+<realty> <email>filonovakaterina6@gmail.com</email>
+<phone>+380 93 566 74 06</phone>
+<advert_type>Продаж</advert_type>
+<realty_type>Ділянка під житлову забудову</realty_type>
+<photos_urls><loc>https://i.postimg.cc/MHw30vy1/151235.jpg</loc> <loc>https://i.postimg.cc/Hnmv0VQ5/151235-(1.jpg</loc> <loc>https://i.postimg.cc/kGCYNBxK/151235-(2.jpg</loc></photos_urls>
+<state>Полтавська</state>
+<city>Полтава</city>
+<cadastre>5310136400:01:003:0815</cadastre>
+<plot_area>0.1</plot_area>
+<plot_area_unit>гектар</plot_area_unit>
+<land_use_purpose>під житлову забудову</land_use_purpose>
+<description_uk>Об`єкт нерухомого майна: земельна ділянка, земельна ділянка Кадастровий номер: 5310136400:01:003:0815 Опис об`єкта: Площа: 0.1га</description_uk>
+<utp_bargaining_is_appropriate>Так</utp_bargaining_is_appropriate>
+<utp_profitable_price>Так</utp_profitable_price>
+<utp_good_investment>Так</utp_good_investment>
+<price_type>за ділянку</price_type>
+<price>1000</price>
+<currency>грн</currency>
+<offer_type>від власника</offer_type>
+<without_commission>Так</without_commission>
+<inspections> <cadastral_urls> <loc>https://i.postimg.cc/FFxn9QNS/151235.jpg</loc></cadastral_urls> </inspections> </realty>
+
+<realty> <email>filonovakaterina6@gmail.com</email>
+<phone>+380 93 566 74 06</phone>
+<advert_type>Продаж</advert_type>
+<realty_type>Ділянка під житлову забудову</realty_type>
+<photos_urls><loc>https://i.postimg.cc/cLkjq1Nj/34830.jpg</loc> <loc>https://i.postimg.cc/htZwF4qp/34830-(2.jpg</loc></photos_urls>
+<state>Рівненська</state>
+<city>Головин</city>
+<cadastre>5623480801:01:004:0053</cadastre>
+<plot_area>0.1161</plot_area>
+<plot_area_unit>гектар</plot_area_unit>
+<land_use_purpose>під житлову забудову</land_use_purpose>
+<description_uk>Об`єкт нерухомого майна: земельна ділянка Кадастровий номер: 5623480801:01:004:0053 Опис об`єкта: Площа: 0.1161га Цільове призначення: для будівництва і обслуговування житлового будинку, господарських будівель і споруд (присадибна ділянка) Адреса: Рівненська обл., Костопільський р., с. Головин, вулиця Малі Ставища, земельна ділянка 28</description_uk>
+<utp_bargaining_is_appropriate>Так</utp_bargaining_is_appropriate>
+<utp_profitable_price>Так</utp_profitable_price>
+<utp_good_investment>Так</utp_good_investment>
+<price_type>за ділянку</price_type>
+<price>1000</price>
+<currency>грн</currency>
+<offer_type>від власника</offer_type>
+<without_commission>Так</without_commission>
+<inspections> <cadastral_urls> <loc>https://i.postimg.cc/Xqx2x9Q8/34830.jpg</loc></cadastral_urls> </inspections> </realty>
+
+<realty> <email>filonovakaterina6@gmail.com</email>
+<phone>+380 93 566 74 06</phone>
+<advert_type>Продаж</advert_type>
+<realty_type>Ділянка під житлову забудову</realty_type>
+<photos_urls><loc>https://i.postimg.cc/902gPrG0/131852.jpg</loc> <loc>https://i.postimg.cc/J08Y3Gbn/131852-(2.jpg</loc></photos_urls>
+<state>Рівненська</state>
+<city>Городище</city>
+<cadastre>5620483600:02:003:0191</cadastre>
+<plot_area>0.12</plot_area>
+<plot_area_unit>гектар</plot_area_unit>
+<land_use_purpose>під житлову забудову</land_use_purpose>
+<description_uk>Об`єкт нерухомого майна: земельна ділянка Кадастровий номер: 5620483600:02:003:0191 Опис об`єкта: Площа: 0.12га</description_uk>
+<utp_bargaining_is_appropriate>Так</utp_bargaining_is_appropriate>
+<utp_profitable_price>Так</utp_profitable_price>
+<utp_good_investment>Так</utp_good_investment>
+<price_type>за ділянку</price_type>
+<price>1000</price>
+<currency>грн</currency>
+<offer_type>від власника</offer_type>
+<without_commission>Так</without_commission>
+<inspections> <cadastral_urls> <loc>https://i.postimg.cc/ZYLDTh4K/131852.jpg</loc></cadastral_urls> </inspections> </realty>
+
+<realty> <email>filonovakaterina6@gmail.com</email>
+<phone>+380 93 566 74 06</phone>
+<advert_type>Продаж</advert_type>
+<realty_type>Ділянка під житлову забудову</realty_type>
+<photos_urls><loc>https://i.postimg.cc/VvwZ9djF/158414.jpg</loc> <loc>https://i.postimg.cc/FzvCb7jb/158414-(1.jpg</loc> <loc>https://i.postimg.cc/sxzHPvp9/158414-(2.jpg</loc> <loc>https://i.postimg.cc/qqrDcz8L/158414-(4.jpg</loc></photos_urls>
+<state>Полтавська</state>
+<city>Пирятин</city>
+<cadastre>5323810100:50:010:0024</cadastre>
+<plot_area>0.0999</plot_area>
+<plot_area_unit>гектар</plot_area_unit>
+<land_use_purpose>під житлову забудову</land_use_purpose>
+<description_uk>Об`єкт нерухомого майна: земельна ділянк, Кадастровий номер 5323810100:50:010:0024,Адреса зем. ділянки Полтавська область, Пирятинський район, м.Пирятин,вулиця Спортивна, 15 Категорія земель Землі житлової та громадської забудови Цільове призначення Для будівництва і обслуговування житлового будинку господарських будівель і спорудПлоща 0.0999 га</description_uk>
+<utp_bargaining_is_appropriate>Так</utp_bargaining_is_appropriate>
+<utp_profitable_price>Так</utp_profitable_price>
+<utp_good_investment>Так</utp_good_investment>
+<price_type>за ділянку</price_type>
+<price>1000</price>
+<currency>грн</currency>
+<offer_type>від власника</offer_type>
+<without_commission>Так</without_commission>
+<inspections> <cadastral_urls> <loc>https://i.postimg.cc/HssvnPkL/158414.jpg</loc></cadastral_urls> </inspections> </realty>
+
+<realty> <email>filonovakaterina6@gmail.com</email>
+<phone>+380 93 566 74 06</phone>
+<advert_type>Продаж</advert_type>
+<realty_type>Ділянка під житлову забудову</realty_type>
+<photos_urls><loc>https://i.postimg.cc/qqrDcz8M/108336.jpg</loc> <loc>https://i.postimg.cc/FR3nJjJJ/108336-(2.jpg</loc></photos_urls>
+<state>Одеська</state>
+<city>Роздільна</city>
+<cadastre>5123910100:02:014:0024</cadastre>
+<plot_area>0.1</plot_area>
+<plot_area_unit>гектар</plot_area_unit>
+<land_use_purpose>під житлову забудову</land_use_purpose>
+<description_uk>Об`єкт нерухомого майна: земельна ділянка Кадастровий номер: 5123910100:02:014:0024 Опис об`єкта: Площа: 0.1га</description_uk>
+<utp_bargaining_is_appropriate>Так</utp_bargaining_is_appropriate>
+<utp_profitable_price>Так</utp_profitable_price>
+<utp_good_investment>Так</utp_good_investment>
+<price_type>за ділянку</price_type>
+<price>1000</price>
+<currency>грн</currency>
+<offer_type>від власника</offer_type>
+<without_commission>Так</without_commission>
+<inspections> <cadastral_urls> <loc>https://i.postimg.cc/kMyhndqn/108336.jpg</loc></cadastral_urls> </inspections> </realty>
+
+<realty> <email>filonovakaterina6@gmail.com</email>
+<phone>+380 93 566 74 06</phone>
+<advert_type>Продаж</advert_type>
+<realty_type>Ділянка під житлову забудову</realty_type>
+<photos_urls><loc>https://i.postimg.cc/zXj6jS28/19945.jpg</loc> <loc>https://i.postimg.cc/rFJ3JCZT/19945-(2.jpg</loc> <loc>https://i.postimg.cc/GhQVQJgr/19945-(3.jpg</loc></photos_urls>
+<state>Чернігівська</state>
+<city>Феськівка</city>
+<cadastre>7423089501:01:001:0378</cadastre>
+<plot_area>0.0476</plot_area>
+<plot_area_unit>гектар</plot_area_unit>
+<land_use_purpose>під житлову забудову</land_use_purpose>
+<description_uk>Об`єкт нерухомого майна: земельна ділянка. Кадастровий номер: 7423089501:01:001:0378 Опис об`єкта: Площа (га): 0.0476, Дата державної реєстрації земельної ділянки: 08.04.2013, орган, що здійснив державну реєстрацію земельної ділянки: Відділ Держземагентства у Менському районі Цільове призначення: для будівництва і обслуговування житлового будинку, господарських будівель і споруд (присадибна ділянка). Чернігівська обл., Менський р., с. Феськівка, вулиця Паризької Комуни, 7</description_uk>
+<utp_bargaining_is_appropriate>Так</utp_bargaining_is_appropriate>
+<utp_profitable_price>Так</utp_profitable_price>
+<utp_good_investment>Так</utp_good_investment>
+<price_type>за ділянку</price_type>
+<price>1000</price>
+<currency>грн</currency>
+<offer_type>від власника</offer_type>
+<without_commission>Так</without_commission>
+<inspections> <cadastral_urls> <loc>https://i.postimg.cc/nrnRv3K6/19945.jpg</loc> <loc>https://i.postimg.cc/BbJYxm5r/19945-1.jpg</loc> <loc>https://i.postimg.cc/kGwjwWfJ/19945-10.jpg</loc> <loc>https://i.postimg.cc/L5vyvjN8/19945-11.jpg</loc> <loc>https://i.postimg.cc/x89xK6yS/19945-2.jpg</loc></cadastral_urls> </inspections> </realty>
+
+<realty> <email>filonovakaterina6@gmail.com</email>
+<phone>+380 93 566 74 06</phone>
+<advert_type>Продаж</advert_type>
+<realty_type>Ділянка під житлову забудову</realty_type>
+<photos_urls><loc>https://i.postimg.cc/Y9Yym1LZ/90737.jpg</loc> <loc>https://i.postimg.cc/Y9Yym1LV/90737-(2.jpg</loc></photos_urls>
+<state>Чернівецька</state>
+<city>Шишківці</city>
+<cadastre>7324089600:01:001:0403</cadastre>
+<plot_area>0.2333</plot_area>
+<plot_area_unit>гектар</plot_area_unit>
+<land_use_purpose>під житлову забудову</land_use_purpose>
+<description_uk>Об`єкт нерухомого майна: земельна ділянка Кадастровий номер: 7324089600:01:001:0403 Опис об`єкта: Площа: 0.2333га Цільове призначення: для будівництва і обслуговування житлового будинку, господарських будівель і споруд (присадибна ділянка) Адреса: Чернівецька обл., Сокирянський р., с. Шишківці, провулок Український, земельна ділянка 10</description_uk>
+<utp_bargaining_is_appropriate>Так</utp_bargaining_is_appropriate>
+<utp_profitable_price>Так</utp_profitable_price>
+<utp_good_investment>Так</utp_good_investment>
+<price_type>за ділянку</price_type>
+<price>1000</price>
+<currency>грн</currency>
+<offer_type>від власника</offer_type>
+<without_commission>Так</without_commission>
+<inspections> <cadastral_urls> <loc>https://i.postimg.cc/mZS6bGBs/90737.jpg</loc></cadastral_urls> </inspections> </realty>
+
+<realty> <email>filonovakaterina6@gmail.com</email>
+<phone>+380 93 566 74 06</phone>
+<advert_type>Продаж</advert_type>
+<realty_type>Ділянка під житлову забудову</realty_type>
+<photos_urls><loc>https://i.postimg.cc/KvFCBsfX/8702.jpg</loc> <loc>https://i.postimg.cc/bN84kFTF/8702-(1.jpg</loc> <loc>https://i.postimg.cc/3J7zmbBs/8702-(2.jpg</loc></photos_urls>
+<state>Київська</state>
+<city>Копачів</city>
+<cadastre>3223184200:06:003:0059</cadastre>
+<plot_area>0.2171</plot_area>
+<plot_area_unit>гектар</plot_area_unit>
+<land_use_purpose>під житлову забудову</land_use_purpose>
+<description_uk>земельна ділянка Кадастровий номер: 3223184200:06:003:0059 Опис об`єкта: Площа (га): 0.2171, Дата державної реєстрації земельної ділянки: 24.05.2018, орган, що здійснив державну реєстрацію земельної ділянки: Відділ в Обухівському районі Головного упрвління Держгеокадастру у Київській області</description_uk>
+<utp_bargaining_is_appropriate>Так</utp_bargaining_is_appropriate>
+<utp_profitable_price>Так</utp_profitable_price>
+<utp_good_investment>Так</utp_good_investment>
+<price_type>за ділянку</price_type>
+<price>1000</price>
+<currency>грн</currency>
+<offer_type>від власника</offer_type>
+<without_commission>Так</without_commission>
+<inspections> <cadastral_urls> <loc>https://i.postimg.cc/KzPpk6T9/8702.jpg</loc> <loc>https://i.postimg.cc/4d627DcF/8702-1.jpg</loc> <loc>https://i.postimg.cc/5yf7ws5T/8702-10.jpg</loc> <loc>https://i.postimg.cc/C5wPjcC9/8702-11.jpg</loc> <loc>https://i.postimg.cc/fLcqtGd2/8702-2.jpg</loc> <loc>https://i.postimg.cc/wvX4yCNS/8702-3.jpg</loc> <loc>https://i.postimg.cc/KzPpk6T6/8702-4.jpg</loc> <loc>https://i.postimg.cc/d3JH85R5/8702-5.jpg</loc></cadastral_urls> </inspections> </realty>
+
+<realty> <email>filonovakaterina6@gmail.com</email>
+<phone>+380 93 566 74 06</phone>
+<advert_type>Продаж</advert_type>
+<realty_type>Ділянка під житлову забудову</realty_type>
+<photos_urls><loc>https://i.postimg.cc/prvcQpDy/133274.jpg</loc></photos_urls>
+<state>Тернопільська</state>
+<city>Гусятин</city>
+<cadastre>6121655100:02:001:1004</cadastre>
+<plot_area>0.0216</plot_area>
+<plot_area_unit>гектар</plot_area_unit>
+<land_use_purpose>під житлову забудову</land_use_purpose>
+<description_uk>Об`єкт нерухомого майна: земельна ділянка Кадастровий номер: 6121655100:02:001:1004 Опис об`єкта: Площа: 0.0216га Адреса: Тернопільська обл., Гусятинський р., смт. Гусятин, вулиця Волошина Августина, земельна ділянка 34</description_uk>
+<utp_bargaining_is_appropriate>Так</utp_bargaining_is_appropriate>
+<utp_profitable_price>Так</utp_profitable_price>
+<utp_good_investment>Так</utp_good_investment>
+<price_type>за ділянку</price_type>
+<price>1000</price>
+<currency>грн</currency>
+<offer_type>від власника</offer_type>
+<without_commission>Так</without_commission>
+<inspections> <cadastral_urls> <loc>https://i.postimg.cc/xjPF0Sn1/133274.jpg</loc></cadastral_urls> </inspections> </realty>
+
+<realty> <email>filonovakaterina6@gmail.com</email>
+<phone>+380 93 566 74 06</phone>
+<advert_type>Продаж</advert_type>
+<realty_type>Земля сільськогосподарського призначення</realty_type>
+<photos_urls><loc>https://i.postimg.cc/fRRFgt1d/30304.jpg</loc></photos_urls>
+<state>Хмельницька</state>
+<city>Пилипи-Олександрівські</city>
+<cadastre>6820686700:04:002:0230</cadastre>
+<plot_area>0.12</plot_area>
+<plot_area_unit>гектар</plot_area_unit>
+<land_use_purpose>індивідуального садівництва</land_use_purpose>
+<description_uk>Об`єкт нерухомого майна: земельна ділянка Кадастровий номер: 6820686700:04:002:0230 Опис об`єкта: Площа: 0.12га</description_uk>
+<utp_bargaining_is_appropriate>Так</utp_bargaining_is_appropriate>
+<utp_profitable_price>Так</utp_profitable_price>
+<utp_good_investment>Так</utp_good_investment>
+<price_type>за ділянку</price_type>
+<price>1000</price>
+<currency>грн</currency>
+<offer_type>від власника</offer_type>
+<without_commission>Так</without_commission>
+<inspections> <cadastral_urls> <loc>https://i.postimg.cc/SRVZVcD7/30304.jpg</loc></cadastral_urls> </inspections> </realty>
+
+<realty> <email>filonovakaterina6@gmail.com</email>
+<phone>+380 93 566 74 06</phone>
+<advert_type>Продаж</advert_type>
+<realty_type>Ділянка під житлову забудову</realty_type>
+<photos_urls><loc>https://i.postimg.cc/tJbvdYh2/158416.jpg</loc> <loc>https://i.postimg.cc/Bb375Xxm/158416-(1.jpg</loc> <loc>https://i.postimg.cc/PJHVbPm6/158416-(2.jpg</loc></photos_urls>
+<state>Київська</state>
+<city>Вороньків</city>
+<cadastre>3220881701:01:016:0134</cadastre>
+<plot_area>0.2019</plot_area>
+<plot_area_unit>гектар</plot_area_unit>
+<land_use_purpose>під житлову забудову</land_use_purpose>
+<description_uk>Об`єкт нерухомого майна: земельна ділянка, Кадастровий номер 3220881701:01:016:0134, Адреса зем. ділянки Київська область, Бориспільський район, с. Вороньків, Категорія земель Землі житлової та громадської забудови, Цільове призначення 02.01 Для будівництва і обслуговування житлового будинку, господарських будівель і споруд (присадибна ділянка) Площа 0.2019 га</description_uk>
+<utp_bargaining_is_appropriate>Так</utp_bargaining_is_appropriate>
+<utp_profitable_price>Так</utp_profitable_price>
+<utp_good_investment>Так</utp_good_investment>
+<price_type>за ділянку</price_type>
+<price>1000</price>
+<currency>грн</currency>
+<offer_type>від власника</offer_type>
+<without_commission>Так</without_commission>
+<inspections> <cadastral_urls> <loc>https://i.postimg.cc/RCTbMz4f/158416.jpg</loc></cadastral_urls> </inspections> </realty>
+
+<realty> <email>filonovakaterina6@gmail.com</email>
+<phone>+380 93 566 74 06</phone>
+<advert_type>Продаж</advert_type>
+<realty_type>Ділянка під житлову забудову</realty_type>
+<photos_urls><loc>https://i.postimg.cc/7hJd9pRW/5089-(3.jpg</loc> <loc>https://i.postimg.cc/kMWkVdxN/5089.jpg</loc> <loc>https://i.postimg.cc/CMbWZVjj/5089-(2.jpg</loc> <loc>https://i.postimg.cc/Y2QJ4w1Y/5089-(4.jpg</loc> <loc>https://i.postimg.cc/057L6qpY/5089-(5.jpg</loc></photos_urls>
+<state>Київська</state>
+<city>Ірпінь</city>
+<cadastre>3210900000:01:036:0007</cadastre>
+<plot_area>0.1241</plot_area>
+<plot_area_unit>гектар</plot_area_unit>
+<land_use_purpose>під житлову забудову</land_use_purpose>
+<description_uk>земельна ділянка Кадастровий номер: 3210900000:01:036:0007 Опис об`єкта: Площа (га): 0.1241,  Цільове призначення: для будівництва і обслуговування житлового будинку, господарських будівель і споруд (присадибна ділянка) Адреса: Київська обл., м. Ірпінь, вулиця Українська, земельна ділянка 48</description_uk>
+<utp_bargaining_is_appropriate>Так</utp_bargaining_is_appropriate>
+<utp_profitable_price>Так</utp_profitable_price>
+<utp_good_investment>Так</utp_good_investment>
+<price_type>за ділянку</price_type>
+<price>1000</price>
+<currency>грн</currency>
+<offer_type>від власника</offer_type>
+<without_commission>Так</without_commission>
+<inspections> <cadastral_urls> <loc>https://i.postimg.cc/QtQY927z/5089.jpg</loc></cadastral_urls> </inspections> </realty>
+
+<realty> <email>filonovakaterina6@gmail.com</email>
+<phone>+380 93 566 74 06</phone>
+<advert_type>Продаж</advert_type>
+<realty_type>Ділянка під житлову забудову</realty_type>
+<photos_urls><loc>https://i.postimg.cc/wTHnLb2x/17495.jpg</loc></photos_urls>
+<state>Одеська</state>
+<city>Біляївка</city>
+<cadastre>5121010100:02:010:0767</cadastre>
+<plot_area>0.06</plot_area>
+<plot_area_unit>гектар</plot_area_unit>
+<land_use_purpose>під житлову забудову</land_use_purpose>
+<description_uk>Об`єкт нерухомого майна: земельна ділянка. Кадастровий номер: 5121010100:02:010:0767 Опис об`єкта: Площа (га): 0.06, Дата державної реєстрації земельної ділянки: 17.02.2016, орган, що здійснив державну реєстрацію земельної ділянки: Управління Держгеокадастру у Біляївському районі Цільове призначення: для будівництва і обслуговування житлового будинку, господарських будівель і споруд (присадибна ділянка). Одеська обл., м. Біляївка, вулиця Манкевича, земельна ділянка 11</description_uk>
+<utp_bargaining_is_appropriate>Так</utp_bargaining_is_appropriate>
+<utp_profitable_price>Так</utp_profitable_price>
+<utp_good_investment>Так</utp_good_investment>
+<price_type>за ділянку</price_type>
+<price>1000</price>
+<currency>грн</currency>
+<offer_type>від власника</offer_type>
+<without_commission>Так</without_commission>
+<inspections> <cadastral_urls> <loc>https://i.postimg.cc/6qVQ9pzL/17495.jpg</loc></cadastral_urls> </inspections> </realty>
+
+<realty> <email>filonovakaterina6@gmail.com</email>
+<phone>+380 93 566 74 06</phone>
+<advert_type>Продаж</advert_type>
+<realty_type>Ділянка під житлову забудову</realty_type>
+<photos_urls><loc>https://i.postimg.cc/qMLSLXDV/18188.jpg</loc></photos_urls>
+<state>Одеська</state>
+<city>Дальник</city>
+<cadastre>5123781300:02:001:1133</cadastre>
+<plot_area>0.1277</plot_area>
+<plot_area_unit>гектар</plot_area_unit>
+<land_use_purpose>під житлову забудову</land_use_purpose>
+<description_uk>Об`єкт нерухомого майна: земельна ділянка. Кадастровий номер: 5123781300:02:001:1133 Опис об`єкта: Площа (га): 0.1277, Дата державної реєстрації земельної ділянки: 27.08.2019, орган, що здійснив державну реєстрацію земельної ділянки: Відділ в Овідіопольському районі Міськрайонного управління в Овідіопольському районі та м. Чорноморську Головного управління Держгеокадастру в Одеській області</description_uk>
+<utp_bargaining_is_appropriate>Так</utp_bargaining_is_appropriate>
+<utp_profitable_price>Так</utp_profitable_price>
+<utp_good_investment>Так</utp_good_investment>
+<price_type>за ділянку</price_type>
+<price>1000</price>
+<currency>грн</currency>
+<offer_type>від власника</offer_type>
+<without_commission>Так</without_commission>
+<inspections> <cadastral_urls> <loc>https://i.postimg.cc/6qVQ9pzc/18188.jpg</loc></cadastral_urls> </inspections> </realty>
+
+<realty> <email>filonovakaterina6@gmail.com</email>
+<phone>+380 93 566 74 06</phone>
+<advert_type>Продаж</advert_type>
+<realty_type>Земля сільськогосподарського призначення</realty_type>
+<photos_urls><loc>https://i.postimg.cc/HLfhxSnS/41992.jpg</loc> <loc>https://i.postimg.cc/vmpNBPTL/41992-(2.jpg</loc> <loc>https://i.postimg.cc/6QDm3Hqf/41992-(3.jpg</loc> <loc>https://i.postimg.cc/CKWQ1v54/41992-(4.jpg</loc> <loc>https://i.postimg.cc/XvTzJ2qL/41992-(5.jpg</loc></photos_urls>
+<state>Київська</state>
+<city>Заворичі</city>
+<cadastre>3221282400:05:001:0314</cadastre>
+<plot_area>0.1</plot_area>
+<plot_area_unit>гектар</plot_area_unit>
+<land_use_purpose>індивідуального садівництва</land_use_purpose>
+<description_uk>Об`єкт нерухомого майна: земельна ділянка Кадастровий номер: 3221282400:05:001:0314 Опис об`єкта: Площа: 0.1га Цільове призначення: для індивідуального садівництва Адреса: Київська обл., Броварський р., с/рада. Заворицька</description_uk>
+<utp_bargaining_is_appropriate>Так</utp_bargaining_is_appropriate>
+<utp_profitable_price>Так</utp_profitable_price>
+<utp_good_investment>Так</utp_good_investment>
+<price_type>за ділянку</price_type>
+<price>1000</price>
+<currency>грн</currency>
+<offer_type>від власника</offer_type>
+<without_commission>Так</without_commission>
+<inspections> <cadastral_urls> <loc>https://i.postimg.cc/T1jPR3Q4/41992.jpg</loc></cadastral_urls> </inspections> </realty>
+
+<realty> <email>filonovakaterina6@gmail.com</email>
+<phone>+380 93 566 74 06</phone>
+<advert_type>Продаж</advert_type>
+<realty_type>Земля сільськогосподарського призначення</realty_type>
+<photos_urls><loc>https://i.postimg.cc/bwwMFD4s/21658.jpg</loc> <loc>https://i.postimg.cc/J4qvqcYX/21658-(2.jpg</loc> <loc>https://i.postimg.cc/4N5q5b2p/21658-(3.jpg</loc></photos_urls>
+<state>Чернігівська</state>
+<city>Ладинка</city>
+<cadastre>7425584300:03:000:5094</cadastre>
+<plot_area>0.12</plot_area>
+<plot_area_unit>гектар</plot_area_unit>
+<land_use_purpose>індивідуального садівництва</land_use_purpose>
+<description_uk>Об`єкт нерухомого майна: земельна ділянка. Кадастровий номер: 7425584300:03:000:5094 Опис об`єкта: Площа (га): 0.12, Дата державної реєстрації земельної ділянки: 08.12.2016, орган, що здійснив державну реєстрацію земельної ділянки: Управління Держгеокадастру у Чернігівському районі Цільове призначення: для індивідуального садівництва. Чернігівська обл., Чернігівський р., с/рада. Ладинська</description_uk>
+<utp_bargaining_is_appropriate>Так</utp_bargaining_is_appropriate>
+<utp_profitable_price>Так</utp_profitable_price>
+<utp_good_investment>Так</utp_good_investment>
+<price_type>за ділянку</price_type>
+<price>1000</price>
+<currency>грн</currency>
+<offer_type>від власника</offer_type>
+<without_commission>Так</without_commission>
+<inspections> <cadastral_urls> <loc>https://i.postimg.cc/kGwjwWfK/21658.jpg</loc></cadastral_urls> </inspections> </realty>
+
+<realty> <email>filonovakaterina6@gmail.com</email>
+<phone>+380 93 566 74 06</phone>
+<advert_type>Продаж</advert_type>
+<realty_type>Ділянка під житлову забудову</realty_type>
+<photos_urls><loc>https://i.postimg.cc/sgg80Qb9/29946.jpg</loc> <loc>https://i.postimg.cc/vZZjSgC6/29946-(2.jpg</loc> <loc>https://i.postimg.cc/pLL71h35/29946-(3.jpg</loc></photos_urls>
+<state>Рівненська</state>
+<city>Маслопуща</city>
+<cadastre>5625485800:10:001:0128</cadastre>
+<plot_area>0.18</plot_area>
+<plot_area_unit>гектар</plot_area_unit>
+<land_use_purpose>під житлову забудову</land_use_purpose>
+<description_uk>Об`єкт нерухомого майна: земельна ділянка Кадастровий номер: 5625485800:10:001:0128 Опис об`єкта: Площа: 0.18га</description_uk>
+<utp_bargaining_is_appropriate>Так</utp_bargaining_is_appropriate>
+<utp_profitable_price>Так</utp_profitable_price>
+<utp_good_investment>Так</utp_good_investment>
+<price_type>за ділянку</price_type>
+<price>1000</price>
+<currency>грн</currency>
+<offer_type>від власника</offer_type>
+<without_commission>Так</without_commission>
+<inspections> <cadastral_urls> <loc>https://i.postimg.cc/zvpdpT0T/29946.jpg</loc></cadastral_urls> </inspections> </realty>
+
+
+</realties>
