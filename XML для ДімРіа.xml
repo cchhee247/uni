@@ -6,7 +6,7 @@
 <local_realty_id>1</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Ділянка під житлову забудову</realty_type>
-<photos_urls><loc>https://i.postimg.cc/jdKBPkX3/6409.jpg</loc> <loc>https://i.postimg.cc/TYGBgH9V/6409-(2.jpg</loc> <loc>https://i.postimg.cc/VsX3ScjG/6409-(3.jpg</loc> <loc>https://i.postimg.cc/bY1KGjQV/6409-(4.jpg</loc> <loc>https://i.postimg.cc/VL12nHR9/6409-(5.jpg</loc></photos_urls>
+<photos_urls><loc>https://i.postimg.cc/jdKBPkX3/6409.jpg</loc> <loc>https://i.postimg.cc/TYGBgH9V/6409-2.jpg</loc> <loc>https://i.postimg.cc/VsX3ScjG/6409-3.jpg</loc> <loc>https://i.postimg.cc/bY1KGjQV/6409-4.jpg</loc> <loc>https://i.postimg.cc/VL12nHR9/6409-5.jpg</loc></photos_urls>
 <state>Тернопільська</state>
 <city>Підгородне</city>
 <cadastre>6125286900:02:001:3285</cadastre>
@@ -18,8 +18,8 @@
 <utp_profitable_price>Так</utp_profitable_price>
 <utp_good_investment>Так</utp_good_investment>
 <price_type>за ділянку</price_type>
-<price>1000</price>
-<currency>грн</currency>
+<price>8900</price>
+<currency>$</currency>
 <offer_type>від власника</offer_type>
 <without_commission>Так</without_commission>
 <inspections> <cadastral_urls> <loc>https://i.postimg.cc/8cg5Q6dr/6409-1.jpg</loc> <loc>https://i.postimg.cc/qqHRV3ch/6409-2.jpg</loc> <loc>https://i.postimg.cc/J0CnVk3H/6409-3.jpg</loc> <loc>https://i.postimg.cc/0j1QRwGw/6409-4.jpg</loc> <loc>https://i.postimg.cc/SRbsFMLG/6409-5.jpg</loc> <loc>https://i.postimg.cc/yxCd4Zhy/6409-6.jpg</loc> <loc>https://i.postimg.cc/Wzc3LkmX/6409-7.jpg</loc></cadastral_urls> </inspections> </realty>
@@ -29,7 +29,7 @@
 <local_realty_id>2</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Земля сільськогосподарського призначення</realty_type>
-<photos_urls><loc>https://i.postimg.cc/CLY9k67g/12707.jpg</loc> <loc>https://i.postimg.cc/qM0WyZwV/12707-(2.jpg</loc></photos_urls>
+<photos_urls><loc>https://i.postimg.cc/CLY9k67g/12707.jpg</loc> <loc>https://i.postimg.cc/qM0WyZwV/12707-2.jpg</loc></photos_urls>
 <state>Харківська</state>
 <city>Коротич</city>
 <cadastre>6325157000:02:012:0255</cadastre>
@@ -41,8 +41,8 @@
 <utp_profitable_price>Так</utp_profitable_price>
 <utp_good_investment>Так</utp_good_investment>
 <price_type>за ділянку</price_type>
-<price>1000</price>
-<currency>грн</currency>
+<price>3600</price>
+<currency>$</currency>
 <offer_type>від власника</offer_type>
 <without_commission>Так</without_commission>
 <inspections> <cadastral_urls> <loc>https://i.postimg.cc/6qx3JvVm/12707.jpg</loc></cadastral_urls> </inspections> </realty>
@@ -52,7 +52,7 @@
 <local_realty_id>3</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Земля сільськогосподарського призначення</realty_type>
-<photos_urls><loc>https://i.postimg.cc/kXczcF1k/16756.jpg</loc> <loc>https://i.postimg.cc/kX9LKhs7/16756-(2.jpg</loc> <loc>https://i.postimg.cc/28mghXGm/16756-(3.jpg</loc> <loc>https://i.postimg.cc/qM0WyZwk/16756-(4.jpg</loc></photos_urls>
+<photos_urls><loc>https://i.postimg.cc/kXczcF1k/16756.jpg</loc> <loc>https://i.postimg.cc/kX9LKhs7/16756-2.jpg</loc> <loc>https://i.postimg.cc/28mghXGm/16756-3.jpg</loc> <loc>https://i.postimg.cc/qM0WyZwk/16756-4.jpg</loc></photos_urls>
 <state>Львівська</state>
 <city>Миртюки</city>
 <cadastre>4625381600:13:000:0009</cadastre>
@@ -64,8 +64,8 @@
 <utp_profitable_price>Так</utp_profitable_price>
 <utp_good_investment>Так</utp_good_investment>
 <price_type>за ділянку</price_type>
-<price>1000</price>
-<currency>грн</currency>
+<price>2200</price>
+<currency>$</currency>
 <offer_type>від власника</offer_type>
 <without_commission>Так</without_commission>
 <inspections> <cadastral_urls> <loc>https://i.postimg.cc/Hn1xDy0P/16756.jpg</loc></cadastral_urls> </inspections> </realty>
@@ -75,7 +75,7 @@
 <local_realty_id>4</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Земля сільськогосподарського призначення</realty_type>
-<photos_urls><loc>https://i.postimg.cc/650g0Lbs/17651.jpg</loc> <loc>https://i.postimg.cc/WbnCn6Yc/17651-(1.jpg</loc></photos_urls>
+<photos_urls><loc>https://i.postimg.cc/650g0Lbs/17651.jpg</loc> <loc>https://i.postimg.cc/WbnCn6Yc/17651-1.jpg</loc></photos_urls>
 <state>Харківська</state>
 <city>Руська Лозова</city>
 <cadastre>6322082000:03:000:0462</cadastre>
@@ -87,8 +87,8 @@
 <utp_profitable_price>Так</utp_profitable_price>
 <utp_good_investment>Так</utp_good_investment>
 <price_type>за ділянку</price_type>
-<price>1000</price>
-<currency>грн</currency>
+<price>2400</price>
+<currency>$</currency>
 <offer_type>від власника</offer_type>
 <without_commission>Так</without_commission> </realty>
 
@@ -97,7 +97,7 @@
 <local_realty_id>6</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Земля сільськогосподарського призначення</realty_type>
-<photos_urls><loc>https://i.postimg.cc/Bn7yWZGm/31410.jpg</loc> <loc>https://i.postimg.cc/8zz3nJxq/31410-(2.jpg</loc> <loc>https://i.postimg.cc/XYYhDGtz/31410-(3.jpg</loc></photos_urls>
+<photos_urls><loc>https://i.postimg.cc/Bn7yWZGm/31410.jpg</loc> <loc>https://i.postimg.cc/8zz3nJxq/31410-2.jpg</loc> <loc>https://i.postimg.cc/XYYhDGtz/31410-3.jpg</loc></photos_urls>
 <state>Рівненська</state>
 <city>Біла Криниця</city>
 <cadastre>5624680700:01:001:0106</cadastre>
@@ -109,8 +109,8 @@
 <utp_profitable_price>Так</utp_profitable_price>
 <utp_good_investment>Так</utp_good_investment>
 <price_type>за ділянку</price_type>
-<price>1000</price>
-<currency>грн</currency>
+<price>2700</price>
+<currency>$</currency>
 <offer_type>від власника</offer_type>
 <without_commission>Так</without_commission>
 <inspections> <cadastral_urls> <loc>https://i.postimg.cc/mkVdV783/31410.jpg</loc></cadastral_urls> </inspections> </realty>
@@ -120,7 +120,7 @@
 <local_realty_id>7</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Земля сільськогосподарського призначення</realty_type>
-<photos_urls><loc>https://i.postimg.cc/FHCqtF4H/35684.jpg</loc> <loc>https://i.postimg.cc/pLc7NVtw/35684-(2.jpg</loc> <loc>https://i.postimg.cc/RZp8rCB5/35684-(3.jpg</loc> <loc>https://i.postimg.cc/FHCqtF4t/35684-(4.jpg</loc> <loc>https://i.postimg.cc/mgpqxZs4/35684-(5.jpg</loc></photos_urls>
+<photos_urls><loc>https://i.postimg.cc/FHCqtF4H/35684.jpg</loc> <loc>https://i.postimg.cc/pLc7NVtw/35684-2.jpg</loc> <loc>https://i.postimg.cc/RZp8rCB5/35684-3.jpg</loc> <loc>https://i.postimg.cc/FHCqtF4t/35684-4.jpg</loc> <loc>https://i.postimg.cc/mgpqxZs4/35684-5.jpg</loc></photos_urls>
 <state>Одеська</state>
 <city>Дачне</city>
 <cadastre>5121082400:01:004:0492</cadastre>
@@ -132,8 +132,8 @@
 <utp_profitable_price>Так</utp_profitable_price>
 <utp_good_investment>Так</utp_good_investment>
 <price_type>за ділянку</price_type>
-<price>1000</price>
-<currency>грн</currency>
+<price>2000</price>
+<currency>$</currency>
 <offer_type>від власника</offer_type>
 <without_commission>Так</without_commission> </realty>
 
@@ -154,8 +154,8 @@
 <utp_profitable_price>Так</utp_profitable_price>
 <utp_good_investment>Так</utp_good_investment>
 <price_type>за ділянку</price_type>
-<price>1000</price>
-<currency>грн</currency>
+<price>2300</price>
+<currency>$</currency>
 <offer_type>від власника</offer_type>
 <without_commission>Так</without_commission>
 <inspections> <cadastral_urls> <loc>https://i.postimg.cc/VsFHYcmy/42118.jpg</loc></cadastral_urls> </inspections> </realty>
@@ -177,8 +177,8 @@
 <utp_profitable_price>Так</utp_profitable_price>
 <utp_good_investment>Так</utp_good_investment>
 <price_type>за ділянку</price_type>
-<price>1000</price>
-<currency>грн</currency>
+<price>4100</price>
+<currency>$</currency>
 <offer_type>від власника</offer_type>
 <without_commission>Так</without_commission>
 <inspections> <cadastral_urls> <loc>https://i.postimg.cc/qqc7kvQF/42174.jpg</loc></cadastral_urls> </inspections> </realty>
@@ -188,7 +188,7 @@
 <local_realty_id>10</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Земля сільськогосподарського призначення</realty_type>
-<photos_urls><loc>https://i.postimg.cc/ZRpDyrvQ/46437.jpg</loc> <loc>https://i.postimg.cc/tgLMTrJL/46437-(1.jpg</loc> <loc>https://i.postimg.cc/zf9cBd3Z/46437-(2.jpg</loc> <loc>https://i.postimg.cc/9fvnMxzH/46437-(3.jpg</loc> <loc>https://i.postimg.cc/nL6PzdMJ/46437-(4.jpg</loc></photos_urls>
+<photos_urls><loc>https://i.postimg.cc/ZRpDyrvQ/46437.jpg</loc> <loc>https://i.postimg.cc/tgLMTrJL/46437-1.jpg</loc> <loc>https://i.postimg.cc/zf9cBd3Z/46437-2.jpg</loc> <loc>https://i.postimg.cc/9fvnMxzH/46437-3.jpg</loc> <loc>https://i.postimg.cc/nL6PzdMJ/46437-4.jpg</loc></photos_urls>
 <state>Дніпропетровська</state>
 <city>Троїцьке</city>
 <cadastre>1223587200:01:003:0306</cadastre>
@@ -200,8 +200,8 @@
 <utp_profitable_price>Так</utp_profitable_price>
 <utp_good_investment>Так</utp_good_investment>
 <price_type>за ділянку</price_type>
-<price>1000</price>
-<currency>грн</currency>
+<price>2000</price>
+<currency>$</currency>
 <offer_type>від власника</offer_type>
 <without_commission>Так</without_commission>
 <inspections> <cadastral_urls> <loc>https://i.postimg.cc/7h1LxZXj/46437-1.jpg</loc> <loc>https://i.postimg.cc/vT7mQZXp/46437-2.jpg</loc> <loc>https://i.postimg.cc/cC7JsLTp/46437-3.jpg</loc> <loc>https://i.postimg.cc/Vv9NYkDy/46437-4.jpg</loc> <loc>https://i.postimg.cc/PJbqt52h/46437-5.jpg</loc> <loc>https://i.postimg.cc/2yd5zS2j/46437-6.jpg</loc> <loc>https://i.postimg.cc/qB2qc10t/46437-7.jpg</loc></cadastral_urls> </inspections> </realty>
@@ -211,7 +211,7 @@
 <local_realty_id>11</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Земля сільськогосподарського призначення</realty_type>
-<photos_urls><loc>https://i.postimg.cc/PJHVbPmX/94264.jpg</loc> <loc>https://i.postimg.cc/9MZNqGqh/94264-(1.jpg</loc> <loc>https://i.postimg.cc/rmxYtStD/94264-(10.jpg</loc> <loc>https://i.postimg.cc/50LkFwFY/94264-(11.jpg</loc> <loc>https://i.postimg.cc/wvLbshsd/94264-(2.jpg</loc></photos_urls>
+<photos_urls><loc>https://i.postimg.cc/PJHVbPmX/94264.jpg</loc> <loc>https://i.postimg.cc/9MZNqGqh/94264-1.jpg</loc> <loc>https://i.postimg.cc/rmxYtStD/94264-10.jpg</loc> <loc>https://i.postimg.cc/50LkFwFY/94264-11.jpg</loc> <loc>https://i.postimg.cc/wvLbshsd/94264-2.jpg</loc></photos_urls>
 <state>Чернігівська</state>
 <city>Новий Білоус</city>
 <cadastre>7425585500:08:000:1001</cadastre>
@@ -223,8 +223,8 @@
 <utp_profitable_price>Так</utp_profitable_price>
 <utp_good_investment>Так</utp_good_investment>
 <price_type>за ділянку</price_type>
-<price>1000</price>
-<currency>грн</currency>
+<price>2600</price>
+<currency>$</currency>
 <offer_type>від власника</offer_type>
 <without_commission>Так</without_commission>
 <inspections> <cadastral_urls> <loc>https://i.postimg.cc/wxDM5wHR/94264.jpg</loc></cadastral_urls> </inspections> </realty>
@@ -246,8 +246,8 @@
 <utp_profitable_price>Так</utp_profitable_price>
 <utp_good_investment>Так</utp_good_investment>
 <price_type>за ділянку</price_type>
-<price>1000</price>
-<currency>грн</currency>
+<price>5200</price>
+<currency>$</currency>
 <offer_type>від власника</offer_type>
 <without_commission>Так</without_commission>
 <inspections> <cadastral_urls> <loc>https://i.postimg.cc/1RKY9Zsh/42169.jpg</loc></cadastral_urls> </inspections> </realty>
@@ -257,7 +257,7 @@
 <local_realty_id>13</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Земля сільськогосподарського призначення</realty_type>
-<photos_urls><loc>https://i.postimg.cc/Pr494zVJ/20009.jpg</loc> <loc>https://i.postimg.cc/RVRyRQpS/20009-(2.jpg</loc> <loc>https://i.postimg.cc/RVRyRQpV/20009-(3.jpg</loc> <loc>https://i.postimg.cc/VLRpRBZN/20009-(4.jpg</loc></photos_urls>
+<photos_urls><loc>https://i.postimg.cc/Pr494zVJ/20009.jpg</loc> <loc>https://i.postimg.cc/RVRyRQpS/20009-2.jpg</loc> <loc>https://i.postimg.cc/RVRyRQpV/20009-3.jpg</loc> <loc>https://i.postimg.cc/VLRpRBZN/20009-4.jpg</loc></photos_urls>
 <state>Київська</state>
 <city>Велика Снітинка</city>
 <cadastre>3224981200:01:006:0110</cadastre>
@@ -269,8 +269,8 @@
 <utp_profitable_price>Так</utp_profitable_price>
 <utp_good_investment>Так</utp_good_investment>
 <price_type>за ділянку</price_type>
-<price>1000</price>
-<currency>грн</currency>
+<price>4400</price>
+<currency>$</currency>
 <offer_type>від власника</offer_type>
 <without_commission>Так</without_commission>
 <inspections> <cadastral_urls> <loc>https://i.postimg.cc/SRVZVcDR/20009-1.jpg</loc> <loc>https://i.postimg.cc/7hXBXSmb/20009-2.jpg</loc> <loc>https://i.postimg.cc/yxnfn0vk/20009-3.jpg</loc> <loc>https://i.postimg.cc/zvpdpT0L/20009-4.jpg</loc> <loc>https://i.postimg.cc/sxKnK5wG/20009-5.jpg</loc></cadastral_urls> </inspections> </realty>
@@ -292,8 +292,8 @@
 <utp_profitable_price>Так</utp_profitable_price>
 <utp_good_investment>Так</utp_good_investment>
 <price_type>за ділянку</price_type>
-<price>1000</price>
-<currency>грн</currency>
+<price>2500</price>
+<currency>$</currency>
 <offer_type>від власника</offer_type>
 <without_commission>Так</without_commission>
 <inspections> <cadastral_urls> <loc>https://i.postimg.cc/Vv9NYk4Z/20357.jpg</loc></cadastral_urls> </inspections> </realty>
@@ -303,7 +303,7 @@
 <local_realty_id>15</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Ділянка під житлову забудову</realty_type>
-<photos_urls><loc>https://i.postimg.cc/t4vf0RjJ/38844.jpg</loc> <loc>https://i.postimg.cc/7ZtcvPkb/38844-(2.jpg</loc></photos_urls>
+<photos_urls><loc>https://i.postimg.cc/t4vf0RjJ/38844.jpg</loc> <loc>https://i.postimg.cc/7ZtcvPkb/38844-2.jpg</loc></photos_urls>
 <state>Закарпатська</state>
 <city>Обава</city>
 <cadastre>2122786200:10:101:0051</cadastre>
@@ -315,8 +315,8 @@
 <utp_profitable_price>Так</utp_profitable_price>
 <utp_good_investment>Так</utp_good_investment>
 <price_type>за ділянку</price_type>
-<price>1000</price>
-<currency>грн</currency>
+<price>2000</price>
+<currency>$</currency>
 <offer_type>від власника</offer_type>
 <without_commission>Так</without_commission>
 <inspections> <cadastral_urls> <loc>https://i.postimg.cc/qqQmQ2jw/38844.jpg</loc></cadastral_urls> </inspections> </realty>
@@ -338,8 +338,8 @@
 <utp_profitable_price>Так</utp_profitable_price>
 <utp_good_investment>Так</utp_good_investment>
 <price_type>за ділянку</price_type>
-<price>1000</price>
-<currency>грн</currency>
+<price>3300</price>
+<currency>$</currency>
 <offer_type>від власника</offer_type>
 <without_commission>Так</without_commission>
 <inspections> <cadastral_urls> <loc>https://i.postimg.cc/hvMCMVp0/32882.jpg</loc></cadastral_urls> </inspections> </realty>
@@ -349,7 +349,7 @@
 <local_realty_id>17</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Земля сільськогосподарського призначення</realty_type>
-<photos_urls><loc>https://i.postimg.cc/dtBpBmNy/20873.jpg</loc> <loc>https://i.postimg.cc/8PH9HBXr/20873-(2.jpg</loc> <loc>https://i.postimg.cc/ZKc2cFs3/20873-(3.jpg</loc></photos_urls>
+<photos_urls><loc>https://i.postimg.cc/dtBpBmNy/20873.jpg</loc> <loc>https://i.postimg.cc/8PH9HBXr/20873-2.jpg</loc> <loc>https://i.postimg.cc/ZKc2cFs3/20873-3.jpg</loc></photos_urls>
 <state>Чернігівська</state>
 <city>Євминка</city>
 <cadastre>7422082701:34:100:0031</cadastre>
@@ -361,8 +361,8 @@
 <utp_profitable_price>Так</utp_profitable_price>
 <utp_good_investment>Так</utp_good_investment>
 <price_type>за ділянку</price_type>
-<price>1000</price>
-<currency>грн</currency>
+<price>3400</price>
+<currency>$</currency>
 <offer_type>від власника</offer_type>
 <without_commission>Так</without_commission>
 <inspections> <cadastral_urls> <loc>https://i.postimg.cc/gj4M43N6/20873.jpg</loc> <loc>https://i.postimg.cc/KjQ9QtJT/20873-1.jpg</loc></cadastral_urls> </inspections> </realty>
@@ -384,8 +384,8 @@
 <utp_profitable_price>Так</utp_profitable_price>
 <utp_good_investment>Так</utp_good_investment>
 <price_type>за ділянку</price_type>
-<price>1000</price>
-<currency>грн</currency>
+<price>3250</price>
+<currency>$</currency>
 <offer_type>від власника</offer_type>
 <without_commission>Так</without_commission>
 <inspections> <cadastral_urls> <loc>https://i.postimg.cc/fy7bwR5B/40822.jpg</loc></cadastral_urls> </inspections> </realty>
@@ -407,8 +407,8 @@
 <utp_profitable_price>Так</utp_profitable_price>
 <utp_good_investment>Так</utp_good_investment>
 <price_type>за ділянку</price_type>
-<price>1000</price>
-<currency>грн</currency>
+<price>2200</price>
+<currency>$</currency>
 <offer_type>від власника</offer_type>
 <without_commission>Так</without_commission>
 <inspections> <cadastral_urls> <loc>https://i.postimg.cc/fWYy78Z9/137229.jpg</loc></cadastral_urls> </inspections> </realty>
@@ -430,8 +430,8 @@
 <utp_profitable_price>Так</utp_profitable_price>
 <utp_good_investment>Так</utp_good_investment>
 <price_type>за ділянку</price_type>
-<price>1000</price>
-<currency>грн</currency>
+<price>4100</price>
+<currency>$</currency>
 <offer_type>від власника</offer_type>
 <without_commission>Так</without_commission>
 <inspections> <cadastral_urls> <loc>https://i.postimg.cc/y6TrVzBw/39981.jpg</loc></cadastral_urls> </inspections> </realty>
@@ -441,7 +441,7 @@
 <local_realty_id>21</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Земля сільськогосподарського призначення</realty_type>
-<photos_urls><loc>https://i.postimg.cc/9fvnMx06/42528.jpg</loc> <loc>https://i.postimg.cc/MGhFTsHF/42528-(2.jpg</loc></photos_urls>
+<photos_urls><loc>https://i.postimg.cc/9fvnMx06/42528.jpg</loc> <loc>https://i.postimg.cc/MGhFTsHF/42528-2.jpg</loc></photos_urls>
 <state>Рівненська</state>
 <city>Шубків</city>
 <cadastre>5624689800:08:037:0035</cadastre>
@@ -453,8 +453,8 @@
 <utp_profitable_price>Так</utp_profitable_price>
 <utp_good_investment>Так</utp_good_investment>
 <price_type>за ділянку</price_type>
-<price>1000</price>
-<currency>грн</currency>
+<price>2500</price>
+<currency>$</currency>
 <offer_type>від власника</offer_type>
 <without_commission>Так</without_commission>
 <inspections> <cadastral_urls> <loc>https://i.postimg.cc/G3jSc1dn/42528.jpg</loc></cadastral_urls> </inspections> </realty>
@@ -464,7 +464,7 @@
 <local_realty_id>22</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Земля сільськогосподарського призначення</realty_type>
-<photos_urls><loc>https://i.postimg.cc/Bv8zJWSn/38961-1.jpg</loc> <loc>https://i.postimg.cc/mrcnTxLr/38961-2.jpg</loc> <loc>https://i.postimg.cc/Bv8zJWSt/38961-3.jpg</loc> <loc>https://i.postimg.cc/cJKzdqxr/38961-4.jpg</loc> <loc>https://i.postimg.cc/8CFYT8pB/38961-5.jpg</loc></photos_urls>
+<photos_urls><loc>https://i.postimg.cc/TYVrPg3J/38961.jpg</loc> <loc></loc> <loc></loc> <loc></loc> <loc></loc></photos_urls>
 <state>Запорізька</state>
 <city>Лукашеве</city>
 <cadastre>2322184600:11:001:0479</cadastre>
@@ -476,8 +476,8 @@
 <utp_profitable_price>Так</utp_profitable_price>
 <utp_good_investment>Так</utp_good_investment>
 <price_type>за ділянку</price_type>
-<price>1000</price>
-<currency>грн</currency>
+<price>2000</price>
+<currency>$</currency>
 <offer_type>від власника</offer_type>
 <without_commission>Так</without_commission>
 <inspections> <cadastral_urls> <loc>https://i.postimg.cc/HWtPpCHK/38961.jpg</loc></cadastral_urls> </inspections> </realty>
@@ -487,7 +487,7 @@
 <local_realty_id>23</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Земля сільськогосподарського призначення</realty_type>
-<photos_urls><loc>https://i.postimg.cc/3wPcRLNj/41703.jpg</loc></photos_urls>
+<photos_urls><loc>https://i.postimg.cc/HsXgKssS/41703-1.png</loc> <loc>https://i.postimg.cc/rw9LVn47/41703-2.png</loc></photos_urls>
 <state>Хмельницька</state>
 <city>Шаровечка</city>
 <cadastre>6825089600:04:005:1341</cadastre>
@@ -499,8 +499,8 @@
 <utp_profitable_price>Так</utp_profitable_price>
 <utp_good_investment>Так</utp_good_investment>
 <price_type>за ділянку</price_type>
-<price>1000</price>
-<currency>грн</currency>
+<price>2500</price>
+<currency>$</currency>
 <offer_type>від власника</offer_type>
 <without_commission>Так</without_commission>
 <inspections> <cadastral_urls> <loc>https://i.postimg.cc/FFxn9QmM/41703.jpg</loc></cadastral_urls> </inspections> </realty>
@@ -522,8 +522,8 @@
 <utp_profitable_price>Так</utp_profitable_price>
 <utp_good_investment>Так</utp_good_investment>
 <price_type>за ділянку</price_type>
-<price>1000</price>
-<currency>грн</currency>
+<price>2000</price>
+<currency>$</currency>
 <offer_type>від власника</offer_type>
 <without_commission>Так</without_commission>
 <inspections> <cadastral_urls> <loc>https://i.postimg.cc/G3jSc1d4/144175.jpg</loc></cadastral_urls> </inspections> </realty>
@@ -545,8 +545,8 @@
 <utp_profitable_price>Так</utp_profitable_price>
 <utp_good_investment>Так</utp_good_investment>
 <price_type>за ділянку</price_type>
-<price>1000</price>
-<currency>грн</currency>
+<price>2600</price>
+<currency>$</currency>
 <offer_type>від власника</offer_type>
 <without_commission>Так</without_commission>
 <inspections> <cadastral_urls> <loc>https://i.postimg.cc/T2cHRXfx/90754.jpg</loc> <loc>https://i.postimg.cc/MZYrW8qq/90754-1.jpg</loc></cadastral_urls> </inspections> </realty>
@@ -556,7 +556,7 @@
 <local_realty_id>26</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Земля сільськогосподарського призначення</realty_type>
-<photos_urls><loc>https://i.postimg.cc/L5SQknzZ/140828.jpg</loc> <loc>https://i.postimg.cc/ZnmsPCrv/140828-(2.jpg</loc></photos_urls>
+<photos_urls><loc>https://i.postimg.cc/L5SQknzZ/140828.jpg</loc> <loc>https://i.postimg.cc/ZnmsPCrv/140828-2.jpg</loc></photos_urls>
 <state>Рівненська</state>
 <city>Тинне</city>
 <cadastre>5625488000:01:003:0082</cadastre>
@@ -568,8 +568,8 @@
 <utp_profitable_price>Так</utp_profitable_price>
 <utp_good_investment>Так</utp_good_investment>
 <price_type>за ділянку</price_type>
-<price>1000</price>
-<currency>грн</currency>
+<price>2000</price>
+<currency>$</currency>
 <offer_type>від власника</offer_type>
 <without_commission>Так</without_commission>
 <inspections> <cadastral_urls> <loc>https://i.postimg.cc/XNgDV04v/140828.jpg</loc></cadastral_urls> </inspections> </realty>
@@ -579,7 +579,7 @@
 <local_realty_id>27</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Ділянка під житлову забудову</realty_type>
-<photos_urls><loc>https://i.postimg.cc/MHw30vy1/151235.jpg</loc> <loc>https://i.postimg.cc/Hnmv0VQ5/151235-(1.jpg</loc> <loc>https://i.postimg.cc/kGCYNBxK/151235-(2.jpg</loc></photos_urls>
+<photos_urls><loc>https://i.postimg.cc/MHw30vy1/151235.jpg</loc> <loc>https://i.postimg.cc/Hnmv0VQ5/151235-1.jpg</loc> <loc>https://i.postimg.cc/kGCYNBxK/151235-2.jpg</loc></photos_urls>
 <state>Полтавська</state>
 <city>Полтава</city>
 <cadastre>5310136400:01:003:0815</cadastre>
@@ -591,8 +591,8 @@
 <utp_profitable_price>Так</utp_profitable_price>
 <utp_good_investment>Так</utp_good_investment>
 <price_type>за ділянку</price_type>
-<price>1000</price>
-<currency>грн</currency>
+<price>5700</price>
+<currency>$</currency>
 <offer_type>від власника</offer_type>
 <without_commission>Так</without_commission>
 <inspections> <cadastral_urls> <loc>https://i.postimg.cc/FFxn9QNS/151235.jpg</loc></cadastral_urls> </inspections> </realty>
@@ -602,7 +602,7 @@
 <local_realty_id>28</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Ділянка під житлову забудову</realty_type>
-<photos_urls><loc>https://i.postimg.cc/cLkjq1Nj/34830.jpg</loc> <loc>https://i.postimg.cc/htZwF4qp/34830-(2.jpg</loc></photos_urls>
+<photos_urls><loc>https://i.postimg.cc/cLkjq1Nj/34830.jpg</loc> <loc>https://i.postimg.cc/htZwF4qp/34830-2.jpg</loc></photos_urls>
 <state>Рівненська</state>
 <city>Головин</city>
 <cadastre>5623480801:01:004:0053</cadastre>
@@ -614,8 +614,8 @@
 <utp_profitable_price>Так</utp_profitable_price>
 <utp_good_investment>Так</utp_good_investment>
 <price_type>за ділянку</price_type>
-<price>1000</price>
-<currency>грн</currency>
+<price>2600</price>
+<currency>$</currency>
 <offer_type>від власника</offer_type>
 <without_commission>Так</without_commission>
 <inspections> <cadastral_urls> <loc>https://i.postimg.cc/Xqx2x9Q8/34830.jpg</loc></cadastral_urls> </inspections> </realty>
@@ -625,7 +625,7 @@
 <local_realty_id>29</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Ділянка під житлову забудову</realty_type>
-<photos_urls><loc>https://i.postimg.cc/902gPrG0/131852.jpg</loc> <loc>https://i.postimg.cc/J08Y3Gbn/131852-(2.jpg</loc></photos_urls>
+<photos_urls><loc>https://i.postimg.cc/902gPrG0/131852.jpg</loc> <loc>https://i.postimg.cc/J08Y3Gbn/131852-2.jpg</loc></photos_urls>
 <state>Рівненська</state>
 <city>Городище</city>
 <cadastre>5620483600:02:003:0191</cadastre>
@@ -637,8 +637,8 @@
 <utp_profitable_price>Так</utp_profitable_price>
 <utp_good_investment>Так</utp_good_investment>
 <price_type>за ділянку</price_type>
-<price>1000</price>
-<currency>грн</currency>
+<price>3000</price>
+<currency>$</currency>
 <offer_type>від власника</offer_type>
 <without_commission>Так</without_commission>
 <inspections> <cadastral_urls> <loc>https://i.postimg.cc/ZYLDTh4K/131852.jpg</loc></cadastral_urls> </inspections> </realty>
@@ -648,7 +648,7 @@
 <local_realty_id>30</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Ділянка під житлову забудову</realty_type>
-<photos_urls><loc>https://i.postimg.cc/VvwZ9djF/158414.jpg</loc> <loc>https://i.postimg.cc/FzvCb7jb/158414-(1.jpg</loc> <loc>https://i.postimg.cc/sxzHPvp9/158414-(2.jpg</loc> <loc>https://i.postimg.cc/qqrDcz8L/158414-(4.jpg</loc></photos_urls>
+<photos_urls><loc>https://i.postimg.cc/VvwZ9djF/158414.jpg</loc> <loc>https://i.postimg.cc/FzvCb7jb/158414-1.jpg</loc> <loc>https://i.postimg.cc/sxzHPvp9/158414-2.jpg</loc> <loc>https://i.postimg.cc/qqrDcz8L/158414-4.jpg</loc></photos_urls>
 <state>Полтавська</state>
 <city>Пирятин</city>
 <cadastre>5323810100:50:010:0024</cadastre>
@@ -660,8 +660,8 @@
 <utp_profitable_price>Так</utp_profitable_price>
 <utp_good_investment>Так</utp_good_investment>
 <price_type>за ділянку</price_type>
-<price>1000</price>
-<currency>грн</currency>
+<price>4000</price>
+<currency>$</currency>
 <offer_type>від власника</offer_type>
 <without_commission>Так</without_commission>
 <inspections> <cadastral_urls> <loc>https://i.postimg.cc/HssvnPkL/158414.jpg</loc></cadastral_urls> </inspections> </realty>
@@ -671,7 +671,7 @@
 <local_realty_id>31</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Ділянка під житлову забудову</realty_type>
-<photos_urls><loc>https://i.postimg.cc/qqrDcz8M/108336.jpg</loc> <loc>https://i.postimg.cc/FR3nJjJJ/108336-(2.jpg</loc></photos_urls>
+<photos_urls><loc>https://i.postimg.cc/qqrDcz8M/108336.jpg</loc> <loc>https://i.postimg.cc/FR3nJjJJ/108336-2.jpg</loc></photos_urls>
 <state>Одеська</state>
 <city>Роздільна</city>
 <cadastre>5123910100:02:014:0024</cadastre>
@@ -683,8 +683,8 @@
 <utp_profitable_price>Так</utp_profitable_price>
 <utp_good_investment>Так</utp_good_investment>
 <price_type>за ділянку</price_type>
-<price>1000</price>
-<currency>грн</currency>
+<price>2800</price>
+<currency>$</currency>
 <offer_type>від власника</offer_type>
 <without_commission>Так</without_commission>
 <inspections> <cadastral_urls> <loc>https://i.postimg.cc/kMyhndqn/108336.jpg</loc></cadastral_urls> </inspections> </realty>
@@ -694,7 +694,7 @@
 <local_realty_id>32</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Ділянка під житлову забудову</realty_type>
-<photos_urls><loc>https://i.postimg.cc/zXj6jS28/19945.jpg</loc> <loc>https://i.postimg.cc/rFJ3JCZT/19945-(2.jpg</loc> <loc>https://i.postimg.cc/GhQVQJgr/19945-(3.jpg</loc></photos_urls>
+<photos_urls><loc>https://i.postimg.cc/zXj6jS28/19945.jpg</loc> <loc>https://i.postimg.cc/rFJ3JCZT/19945-2.jpg</loc> <loc>https://i.postimg.cc/GhQVQJgr/19945-3.jpg</loc></photos_urls>
 <state>Чернігівська</state>
 <city>Феськівка</city>
 <cadastre>7423089501:01:001:0378</cadastre>
@@ -706,8 +706,8 @@
 <utp_profitable_price>Так</utp_profitable_price>
 <utp_good_investment>Так</utp_good_investment>
 <price_type>за ділянку</price_type>
-<price>1000</price>
-<currency>грн</currency>
+<price>2000</price>
+<currency>$</currency>
 <offer_type>від власника</offer_type>
 <without_commission>Так</without_commission>
 <inspections> <cadastral_urls> <loc>https://i.postimg.cc/nrnRv3K6/19945.jpg</loc> <loc>https://i.postimg.cc/BbJYxm5r/19945-1.jpg</loc> <loc>https://i.postimg.cc/kGwjwWfJ/19945-10.jpg</loc> <loc>https://i.postimg.cc/L5vyvjN8/19945-11.jpg</loc> <loc>https://i.postimg.cc/x89xK6yS/19945-2.jpg</loc></cadastral_urls> </inspections> </realty>
@@ -717,7 +717,7 @@
 <local_realty_id>33</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Ділянка під житлову забудову</realty_type>
-<photos_urls><loc>https://i.postimg.cc/Y9Yym1LZ/90737.jpg</loc> <loc>https://i.postimg.cc/Y9Yym1LV/90737-(2.jpg</loc></photos_urls>
+<photos_urls><loc>https://i.postimg.cc/Y9Yym1LZ/90737.jpg</loc> <loc>https://i.postimg.cc/Y9Yym1LV/90737-2.jpg</loc></photos_urls>
 <state>Чернівецька</state>
 <city>Шишківці</city>
 <cadastre>7324089600:01:001:0403</cadastre>
@@ -729,8 +729,8 @@
 <utp_profitable_price>Так</utp_profitable_price>
 <utp_good_investment>Так</utp_good_investment>
 <price_type>за ділянку</price_type>
-<price>1000</price>
-<currency>грн</currency>
+<price>4600</price>
+<currency>$</currency>
 <offer_type>від власника</offer_type>
 <without_commission>Так</without_commission>
 <inspections> <cadastral_urls> <loc>https://i.postimg.cc/mZS6bGBs/90737.jpg</loc></cadastral_urls> </inspections> </realty>
@@ -740,7 +740,7 @@
 <local_realty_id>34</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Ділянка під житлову забудову</realty_type>
-<photos_urls><loc>https://i.postimg.cc/KvFCBsfX/8702.jpg</loc> <loc>https://i.postimg.cc/bN84kFTF/8702-(1.jpg</loc> <loc>https://i.postimg.cc/3J7zmbBs/8702-(2.jpg</loc></photos_urls>
+<photos_urls><loc>https://i.postimg.cc/KvFCBsfX/8702.jpg</loc> <loc>https://i.postimg.cc/bN84kFTF/8702-1.jpg</loc> <loc>https://i.postimg.cc/3J7zmbBs/8702-2.jpg</loc></photos_urls>
 <state>Київська</state>
 <city>Копачів</city>
 <cadastre>3223184200:06:003:0059</cadastre>
@@ -752,8 +752,8 @@
 <utp_profitable_price>Так</utp_profitable_price>
 <utp_good_investment>Так</utp_good_investment>
 <price_type>за ділянку</price_type>
-<price>1000</price>
-<currency>грн</currency>
+<price>3800</price>
+<currency>$</currency>
 <offer_type>від власника</offer_type>
 <without_commission>Так</without_commission>
 <inspections> <cadastral_urls> <loc>https://i.postimg.cc/KzPpk6T9/8702.jpg</loc> <loc>https://i.postimg.cc/4d627DcF/8702-1.jpg</loc> <loc>https://i.postimg.cc/5yf7ws5T/8702-10.jpg</loc> <loc>https://i.postimg.cc/C5wPjcC9/8702-11.jpg</loc> <loc>https://i.postimg.cc/fLcqtGd2/8702-2.jpg</loc> <loc>https://i.postimg.cc/wvX4yCNS/8702-3.jpg</loc> <loc>https://i.postimg.cc/KzPpk6T6/8702-4.jpg</loc> <loc>https://i.postimg.cc/d3JH85R5/8702-5.jpg</loc></cadastral_urls> </inspections> </realty>
@@ -775,8 +775,8 @@
 <utp_profitable_price>Так</utp_profitable_price>
 <utp_good_investment>Так</utp_good_investment>
 <price_type>за ділянку</price_type>
-<price>1000</price>
-<currency>грн</currency>
+<price>2000</price>
+<currency>$</currency>
 <offer_type>від власника</offer_type>
 <without_commission>Так</without_commission>
 <inspections> <cadastral_urls> <loc>https://i.postimg.cc/xjPF0Sn1/133274.jpg</loc></cadastral_urls> </inspections> </realty>
@@ -798,8 +798,8 @@
 <utp_profitable_price>Так</utp_profitable_price>
 <utp_good_investment>Так</utp_good_investment>
 <price_type>за ділянку</price_type>
-<price>1000</price>
-<currency>грн</currency>
+<price>2400</price>
+<currency>$</currency>
 <offer_type>від власника</offer_type>
 <without_commission>Так</without_commission>
 <inspections> <cadastral_urls> <loc>https://i.postimg.cc/SRVZVcD7/30304.jpg</loc></cadastral_urls> </inspections> </realty>
@@ -809,7 +809,7 @@
 <local_realty_id>37</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Ділянка під житлову забудову</realty_type>
-<photos_urls><loc>https://i.postimg.cc/tJbvdYh2/158416.jpg</loc> <loc>https://i.postimg.cc/Bb375Xxm/158416-(1.jpg</loc> <loc>https://i.postimg.cc/PJHVbPm6/158416-(2.jpg</loc></photos_urls>
+<photos_urls><loc>https://i.postimg.cc/tJbvdYh2/158416.jpg</loc> <loc>https://i.postimg.cc/Bb375Xxm/158416-1.jpg</loc> <loc>https://i.postimg.cc/PJHVbPm6/158416-2.jpg</loc></photos_urls>
 <state>Київська</state>
 <city>Вороньків</city>
 <cadastre>3220881701:01:016:0134</cadastre>
@@ -821,34 +821,11 @@
 <utp_profitable_price>Так</utp_profitable_price>
 <utp_good_investment>Так</utp_good_investment>
 <price_type>за ділянку</price_type>
-<price>1000</price>
-<currency>грн</currency>
+<price>11500</price>
+<currency>$</currency>
 <offer_type>від власника</offer_type>
 <without_commission>Так</without_commission>
 <inspections> <cadastral_urls> <loc>https://i.postimg.cc/RCTbMz4f/158416.jpg</loc></cadastral_urls> </inspections> </realty>
-
-<realty> <email>filonovakaterina6@gmail.com</email>
-<phone>+380 93 566 74 06</phone>
-<local_realty_id>38</local_realty_id>
-<advert_type>Продаж</advert_type>
-<realty_type>Ділянка під житлову забудову</realty_type>
-<photos_urls><loc>https://i.postimg.cc/7hJd9pRW/5089-(3.jpg</loc> <loc>https://i.postimg.cc/kMWkVdxN/5089.jpg</loc> <loc>https://i.postimg.cc/CMbWZVjj/5089-(2.jpg</loc> <loc>https://i.postimg.cc/Y2QJ4w1Y/5089-(4.jpg</loc> <loc>https://i.postimg.cc/057L6qpY/5089-(5.jpg</loc></photos_urls>
-<state>Київська</state>
-<city>Ірпінь</city>
-<cadastre>3210900000:01:036:0007</cadastre>
-<plot_area>0.1241</plot_area>
-<plot_area_unit>гектар</plot_area_unit>
-<land_use_purpose>під житлову забудову</land_use_purpose>
-<description_uk>земельна ділянка Кадастровий номер: 3210900000:01:036:0007 Опис об`єкта: Площа (га): 0.1241,  Цільове призначення: для будівництва і обслуговування житлового будинку, господарських будівель і споруд (присадибна ділянка) Адреса: Київська обл., м. Ірпінь, вулиця Українська, земельна ділянка 48</description_uk>
-<utp_bargaining_is_appropriate>Так</utp_bargaining_is_appropriate>
-<utp_profitable_price>Так</utp_profitable_price>
-<utp_good_investment>Так</utp_good_investment>
-<price_type>за ділянку</price_type>
-<price>1000</price>
-<currency>грн</currency>
-<offer_type>від власника</offer_type>
-<without_commission>Так</without_commission>
-<inspections> <cadastral_urls> <loc>https://i.postimg.cc/QtQY927z/5089.jpg</loc></cadastral_urls> </inspections> </realty>
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
@@ -867,8 +844,8 @@
 <utp_profitable_price>Так</utp_profitable_price>
 <utp_good_investment>Так</utp_good_investment>
 <price_type>за ділянку</price_type>
-<price>1000</price>
-<currency>грн</currency>
+<price>4800</price>
+<currency>$</currency>
 <offer_type>від власника</offer_type>
 <without_commission>Так</without_commission>
 <inspections> <cadastral_urls> <loc>https://i.postimg.cc/6qVQ9pzL/17495.jpg</loc></cadastral_urls> </inspections> </realty>
@@ -890,8 +867,8 @@
 <utp_profitable_price>Так</utp_profitable_price>
 <utp_good_investment>Так</utp_good_investment>
 <price_type>за ділянку</price_type>
-<price>1000</price>
-<currency>грн</currency>
+<price>8400</price>
+<currency>$</currency>
 <offer_type>від власника</offer_type>
 <without_commission>Так</without_commission>
 <inspections> <cadastral_urls> <loc>https://i.postimg.cc/6qVQ9pzc/18188.jpg</loc></cadastral_urls> </inspections> </realty>
@@ -901,7 +878,7 @@
 <local_realty_id>41</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Земля сільськогосподарського призначення</realty_type>
-<photos_urls><loc>https://i.postimg.cc/HLfhxSnS/41992.jpg</loc> <loc>https://i.postimg.cc/vmpNBPTL/41992-(2.jpg</loc> <loc>https://i.postimg.cc/6QDm3Hqf/41992-(3.jpg</loc> <loc>https://i.postimg.cc/CKWQ1v54/41992-(4.jpg</loc> <loc>https://i.postimg.cc/XvTzJ2qL/41992-(5.jpg</loc></photos_urls>
+<photos_urls><loc>https://i.postimg.cc/HLfhxSnS/41992.jpg</loc> <loc>https://i.postimg.cc/vmpNBPTL/41992-2.jpg</loc> <loc>https://i.postimg.cc/6QDm3Hqf/41992-3.jpg</loc> <loc>https://i.postimg.cc/CKWQ1v54/41992-4.jpg</loc> <loc>https://i.postimg.cc/XvTzJ2qL/41992-5.jpg</loc></photos_urls>
 <state>Київська</state>
 <city>Заворичі</city>
 <cadastre>3221282400:05:001:0314</cadastre>
@@ -913,8 +890,8 @@
 <utp_profitable_price>Так</utp_profitable_price>
 <utp_good_investment>Так</utp_good_investment>
 <price_type>за ділянку</price_type>
-<price>1000</price>
-<currency>грн</currency>
+<price>2000</price>
+<currency>$</currency>
 <offer_type>від власника</offer_type>
 <without_commission>Так</without_commission>
 <inspections> <cadastral_urls> <loc>https://i.postimg.cc/T1jPR3Q4/41992.jpg</loc></cadastral_urls> </inspections> </realty>
@@ -924,7 +901,7 @@
 <local_realty_id>42</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Земля сільськогосподарського призначення</realty_type>
-<photos_urls><loc>https://i.postimg.cc/bwwMFD4s/21658.jpg</loc> <loc>https://i.postimg.cc/J4qvqcYX/21658-(2.jpg</loc> <loc>https://i.postimg.cc/4N5q5b2p/21658-(3.jpg</loc></photos_urls>
+<photos_urls><loc>https://i.postimg.cc/bwwMFD4s/21658.jpg</loc> <loc>https://i.postimg.cc/J4qvqcYX/21658-2.jpg</loc> <loc>https://i.postimg.cc/4N5q5b2p/21658-3.jpg</loc></photos_urls>
 <state>Чернігівська</state>
 <city>Ладинка</city>
 <cadastre>7425584300:03:000:5094</cadastre>
@@ -936,8 +913,8 @@
 <utp_profitable_price>Так</utp_profitable_price>
 <utp_good_investment>Так</utp_good_investment>
 <price_type>за ділянку</price_type>
-<price>1000</price>
-<currency>грн</currency>
+<price>2000</price>
+<currency>$</currency>
 <offer_type>від власника</offer_type>
 <without_commission>Так</without_commission>
 <inspections> <cadastral_urls> <loc>https://i.postimg.cc/kGwjwWfK/21658.jpg</loc></cadastral_urls> </inspections> </realty>
@@ -947,7 +924,7 @@
 <local_realty_id>43</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Ділянка під житлову забудову</realty_type>
-<photos_urls><loc>https://i.postimg.cc/sgg80Qb9/29946.jpg</loc> <loc>https://i.postimg.cc/vZZjSgC6/29946-(2.jpg</loc> <loc>https://i.postimg.cc/pLL71h35/29946-(3.jpg</loc></photos_urls>
+<photos_urls><loc>https://i.postimg.cc/sgg80Qb9/29946.jpg</loc> <loc>https://i.postimg.cc/vZZjSgC6/29946-2.jpg</loc> <loc>https://i.postimg.cc/pLL71h35/29946-3.jpg</loc></photos_urls>
 <state>Рівненська</state>
 <city>Маслопуща</city>
 <cadastre>5625485800:10:001:0128</cadastre>
@@ -959,11 +936,12 @@
 <utp_profitable_price>Так</utp_profitable_price>
 <utp_good_investment>Так</utp_good_investment>
 <price_type>за ділянку</price_type>
-<price>1000</price>
-<currency>грн</currency>
+<price>2500</price>
+<currency>$</currency>
 <offer_type>від власника</offer_type>
 <without_commission>Так</without_commission>
 <inspections> <cadastral_urls> <loc>https://i.postimg.cc/zvpdpT0T/29946.jpg</loc></cadastral_urls> </inspections> </realty>
+
 
 
 
