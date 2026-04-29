@@ -717,7 +717,7 @@
 <local_realty_id>53</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Ділянка під житлову забудову</realty_type>
-<photos_urls><loc>https://i.postimg.cc/Y9Yym1LZ/90737.jpg</loc> <loc>https://i.postimg.cc/Y9Yym1LV/90737-2.jpg</loc></photos_urls>
+<photos_urls><loc>https://i.postimg.cc/76xhFytt/90737.jpg</loc></photos_urls>
 <state>Чернівецька</state>
 <city>Шишківці</city>
 <cadastre>7324089600:01:001:0403</cadastre>
@@ -740,7 +740,7 @@
 <local_realty_id>54</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Ділянка під житлову забудову</realty_type>
-<photos_urls><loc>https://i.postimg.cc/KvFCBsfX/8702.jpg</loc> <loc>https://i.postimg.cc/bN84kFTF/8702-1.jpg</loc> <loc>https://i.postimg.cc/3J7zmbBs/8702-2.jpg</loc></photos_urls>
+<photos_urls><loc>https://i.postimg.cc/XJVqR01f/8702.jpg</loc> <loc>https://i.postimg.cc/KzZj6ypD/8702-1.jpg</loc> <loc>https://i.postimg.cc/4dJyDT25/8702-2.jpg</loc></photos_urls>
 <state>Київська</state>
 <city>Копачів</city>
 <cadastre>3223184200:06:003:0059</cadastre>
@@ -786,7 +786,7 @@
 <local_realty_id>56</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Земля сільськогосподарського призначення</realty_type>
-<photos_urls><loc>https://i.postimg.cc/fRRFgt1d/30304.jpg</loc></photos_urls>
+<photos_urls><loc>https://i.postimg.cc/V6YvxcZG/30304.jpg</loc></photos_urls>
 <state>Хмельницька</state>
 <city>Пилипи-Олександрівські</city>
 <cadastre>6820686700:04:002:0230</cadastre>
@@ -832,7 +832,7 @@
 <local_realty_id>58</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Ділянка під житлову забудову</realty_type>
-<photos_urls><loc>https://i.postimg.cc/wTHnLb2x/17495.jpg</loc></photos_urls>
+<photos_urls><loc>https://i.postimg.cc/pT2rwtcQ/17495.jpg</loc></photos_urls>
 <state>Одеська</state>
 <city>Біляївка</city>
 <cadastre>5121010100:02:010:0767</cadastre>
@@ -941,6 +941,7 @@
 <offer_type>від власника</offer_type>
 <without_commission>Так</without_commission>
 <inspections> <cadastral_urls> <loc>https://i.postimg.cc/zvpdpT0T/29946.jpg</loc></cadastral_urls> </inspections> </realty>
+
 
 
 
