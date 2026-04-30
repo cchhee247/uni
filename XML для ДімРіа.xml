@@ -448,7 +448,7 @@
 <plot_area>0.06</plot_area>
 <plot_area_unit>гектар</plot_area_unit>
 <land_use_purpose>індивідуального садівництва</land_use_purpose>
-<description_uk>Об`єкт нерухомого майна: земельна ділянка Кадастровий номер: 5624689800:08:037:0035 Опис об`єкта: Площа: 0.12га Цільове призначення: для індивідуального садівництва Адреса: Рівненська обл., Рівненський р., с/рада. Шубківська</description_uk>
+<description_uk>Об`єкт нерухомого майна: земельна ділянка Кадастровий номер: 5624689800:08:037:0035 Опис об`єкта: Загальна площа: 0.12га, площа частки 0,06 га. Цільове призначення: для індивідуального садівництва Адреса: Рівненська обл., Рівненський р., с/рада. Шубківська</description_uk>
 <utp_bargaining_is_appropriate>Так</utp_bargaining_is_appropriate>
 <utp_profitable_price>Так</utp_profitable_price>
 <utp_good_investment>Так</utp_good_investment>
@@ -714,7 +714,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
-<local_realty_id>53</local_realty_id>
+<local_realty_id>83</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Ділянка під житлову забудову</realty_type>
 <photos_urls><loc>https://i.postimg.cc/76xhFytt/90737.jpg</loc></photos_urls>
@@ -737,7 +737,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
-<local_realty_id>54</local_realty_id>
+<local_realty_id>84</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Ділянка під житлову забудову</realty_type>
 <photos_urls><loc>https://i.postimg.cc/XJVqR01f/8702.jpg</loc> <loc>https://i.postimg.cc/KzZj6ypD/8702-1.jpg</loc> <loc>https://i.postimg.cc/4dJyDT25/8702-2.jpg</loc></photos_urls>
@@ -783,7 +783,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
-<local_realty_id>56</local_realty_id>
+<local_realty_id>85</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Земля сільськогосподарського призначення</realty_type>
 <photos_urls><loc>https://i.postimg.cc/V6YvxcZG/30304.jpg</loc></photos_urls>
@@ -829,7 +829,7 @@
 
 <realty> <email>filonovakaterina6@gmail.com</email>
 <phone>+380 93 566 74 06</phone>
-<local_realty_id>58</local_realty_id>
+<local_realty_id>86</local_realty_id>
 <advert_type>Продаж</advert_type>
 <realty_type>Ділянка під житлову забудову</realty_type>
 <photos_urls><loc>https://i.postimg.cc/pT2rwtcQ/17495.jpg</loc></photos_urls>
@@ -941,6 +941,7 @@
 <offer_type>від власника</offer_type>
 <without_commission>Так</without_commission>
 <inspections> <cadastral_urls> <loc>https://i.postimg.cc/zvpdpT0T/29946.jpg</loc></cadastral_urls> </inspections> </realty>
+
 
 
 
